@@ -14,10 +14,10 @@ Formal Cooperative
 Informal Cooperative Learning Groups (turn and talk)
 Cooperative Base Groups(Long-term groups (lasting for at least one semester or year) with stable membership whose primary responsibility is to give each member the support, encouragement, and assistance he or she needs to progress academically and develop cognitively and socially in healthy ways.  )
 
-##Things to consider when doing cooprative learning assignments##
-Size (smallest group 2 to largest group 6. Small groups requrire few social skills and work quickly. Large group deal better with complex ideas)
-Formation (Heterogeneous or homogeneous; self-selection or random assignment)
-Duration 
+## Things to consider when doing cooprative learning assignments
+* Size (smallest group 2 to largest group 6. Small groups requrire few social skills and work quickly. Large group deal better with complex ideas)
+* Formation (Heterogeneous or homogeneous; self-selection or random assignment)
+* Duration 
 
 **Assigning roles in groups**
 A few ways: 
