@@ -2,11 +2,12 @@
 This includes a list of group tasks that are used in cooperative learning, peer tutoring and computer-supported collaborative learning
 
 **Basic Elements of Cooprative teams (Johnson. R. T& Johnson.D.W)**
-Positive Interdependece
-Individual Accountability
-Face-to-Face Promotive Interaction??
-Interpersonal And Small Group Skills
-Group Processing
+
+* Positive Interdependece
+* Individual Accountability
+* Face-to-Face Promotive Interaction??
+* Interpersonal And Small Group Skills
+* Group Processing
 
 **Types of cooperative learning**
 Formal Cooperative 
