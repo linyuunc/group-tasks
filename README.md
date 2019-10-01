@@ -4,7 +4,7 @@ This includes a list of group tasks that are used in cooperative learning, peer 
 
 # The following eight cooperative learning methods were discussed in Johnson and Johnson (2000). 
 
-Learning methods are summarized briefly.
+Cooperative Learning methods are summarized briefly.
 
 Besides talking about the effect size of each cooperative learning methods, he also talks about 
 evaluating these methods on a five-point scale according to five dimensions a) ease of learning in the method (b) ease of initial use in the classroom, (c) ease of long-term maintenance of use of the method, (d) robustness of the method (applicability to a wide variety of subject areas and grade levels), and (e) ease of method's adapting to changing conditions. The Top five were considered more direct shown as D on the paper’s name. The more conceptual Learning Methods are noted as C. The results indicate that the more conceptual the cooperative learning method, the higher the achievement of cooperative compared with competitive learning. 
@@ -211,7 +211,21 @@ In order to play the game, students independently choose a number between zero a
 **12.	Light box.** The laser and target have been moved and there’s a mirror hidden in the box. Where must the mirror be?  Partners have exactly the same question.
 * Content-dependent(Physics), symmetry
 
-Content-dependent(Physics), symmetry
+# Other Collaborative Learning Environment (Updated 10.01.19) More details needed
+
+* Knowledge Forum (Scardamalia & Bereiter, Chapter 20 IHLS) 
+Tools: 
+* Sensemaker of the WISE project ((Linn, Davis, & Bell, 2008; see Andriessen & Baker, Chapter 22, IHLS)
+Make argumentation highly visible to encourage productive debate between competing scientiic ideas. 
+* Learning by Design (Kolodner, 2006)
+encourages learners to carefully check which “physical facts” other groups use when they design a balloon car, all made visibly different from others in the form of white-boarding. They design a car based on the given “evidence,” experimented and reported by other groups, to win the race.
+
+* Hypothesis-Experiment Instruction 
+This is simiar to "predict-observe-explain" method used to overcome scientific misconceptions. 
+* The Knowledge Constructive Jigsaw  (lesson con- sists of a set of strategic procedures for discussion and a “problem,” an experiment whose answer is predicted and discussed by the students. An HEI unit consists of multiple such problems, carefully ordered to guide the devel- opment of scientiic concepts underlying the problem set. Each student in an HEI class is expected to integrate the results of the experiments in her/his own way to formulate a hypothesis. These differing hypotheses then are used to facilitate whole classroom discussion (Hatano & Inagaki, 1986).
+
+
+
 # Below are from Chen et al’s website: 
 
 **Role assignment** 
@@ -275,8 +289,16 @@ It recognizes the internal scripts (Fischer et al., 2013), play, scene, scriptle
 **5. Weinberger and Fischer (2006)**
 * Citation: https://reader.elsevier.com/reader/sd/pii/S0360131505000564?token=7CC572ABFA12F3501A07C9212E407794000EB6FCC880C450F79E09BBC3F53806880BA8263363623D00386C213FB9AD3C
 
-They proposed  a  multi-dimensional  approach  to  analyze  argumentative  knowledgeconstruction in CSCL from sampling and segmentation of the discourse corpora to the analysis of four pro-cess dimensions (participation, epistemic, argumentative, social mode)
+They proposed  a  multi-dimensional  approach  to  analyze  argumentative  knowledgeconstruction in CSCL from sampling and segmentation of the discourse corpora to the analysis of four pro-cess dimensions (participation, epistemic, argumentative, social mode)***
 
+**6. A Knowledge Communities aand Inquiry (KCI) Script by Slotta, Quintana, and Moher (2018) in IHLS**
+Description: The first phase was conducted as a whole-class activity, with students familiarizing themselves with all four habitats to inform a community-wide knowledge base of the habitats, the species, and their interdependencies. The four ecosystems varied in terms of habitat conditions (how much pipe and brick, and what temperature) and also varied in terms of the population levels of different species (flora and fauna). Students were divided into four teams, with each taking stewardship of one wall (i.e., its habitat and denizen species), and tasked with understanding their habitat and species, then reasoning and problem-solving around any observed perturbations, making use of community-level knowledge, and sharing their own findings with the wider community. 
+
+* Phase 1: Students walked into their classroom and discover the WallCology EP that was installed in their classrooms. The EP simulation ran continuously (i.e., all day) on the four monitors that were positioned on four different walls around the room, each displaying a distinct ecosystem. Students used the Common Knowledge tools to record observations, including details about the species’ behav- ior, physical traits, habitat preferences, and food preferences. 
+
+* Phase 2: Students entered their classrooms and discovered that a major perturbation had taken place within their group’s ecosystem. This was immediately apparent in terms of drastic changes in populations of some of the species in the ecosystems.
+
+* Phase 3: In the final phase, teams could make changes to their ecosystems by either introducing a new species, or increasing or decreasing a species that was already present. The goal was to improve the overall health of the ecosystem, either by trying to return the ecosystem to its original state or by creating a more diverse ecosystem (i.e., with a robust combination of predators, herbivores, and resource
 
 # Below are the initial documents. 
 **Basic Elements of Cooprative teams (Johnson. R. T& Johnson.D.W)**
