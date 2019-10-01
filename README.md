@@ -1,5 +1,175 @@
-# group-tasks
+# group-tasks 
 This includes a list of group tasks that are used in cooperative learning, peer tutoring and computer-supported collaborative learning
+# Updated 10/01/19
+
+The following eight cooperative learning methods were discussed in Johnson and Johnson (2000). Learning methods are summarized briefly.
+
+Besides talking about the effect size of each cooperative learning methods, he also talks about 
+evaluating these methods on a five-point scale according to five dimensions a) ease of learning in the method (b) ease of initial use in the classroom, (c) ease of long-term maintenance of use of the method, (d) robustness of the method (applicability to a wide variety of subject areas and grade levels), and (e) ease of method's adapting to changing conditions. The Top five were considered more direct shown as D on the paper’s name. The more conceptual Learning Methods are noted as C. The results indicate that the more conceptual the cooperative learning method, the higher the achievement of cooperative compared with competitive learning. 
+
+                **The methods were ordered in the way as Table 3 in Johnson and Johnson (2000)** 
+
+#1.	Learning Together (LT) (Johnson & Johnson,1975/1999) D
+Description: Their work about learning together was published on the book Learning
+Together and Alone. I was not able to access their book either online or through library. 
+Kagan mentioned the differences between his methods and Learning Together. The Johnsons postulate five conditions under which cooperative learning is productive: 1. Clearly perceived Positive Interdependence 2. Considerable promotive Face-to-Face interaction 3. Clearly perceived Individual Accountability and personal responsibility to achieve the group's goals 4. Frequent use of the relevant Interpersonal and Small-Group Skills  5. Frequent and regular Group Processing of current functioning to improve the group's future effectiveness. Kagan explained that Johnsons do not include structures in their model.  Training in the Johnson model requires practice in lesson planning. The Johnsons use the term "Groups" instead “teams”. 
+
+Citation: 
+1)	Kagan: https://www.kaganonline.com/free_articles/dr_spencer_kagan/275/Kagan-Structures-and-Learning-Together-What-is-the-Difference
+2)	An article was mentioned in Chen et al’s article using learning together is 
+Workman, M. (2004). Performance and perceived effectiveness in computer-based and computer-aided education: Do cognitive styles make a difference? Computers in Human Behavior, 20, 517–534. doi:10.1016/j.chb.2003.10.003 
+
+2.	Teams-Games Tournaments (TGT) (DeVries & Edwards, 1974)  C
+Description: This is retrieved verbatim from the article cited below. Key points are highlighted 
+
+Description of the study:  The study was conducted for a six-week period and employed a simple, two-group comparison, contrasting TGT with a control treatment involving traditional instructional approaches (meaning lecturing style classrooms, but students were nominally assigned to five-member teams). Each treatment group comprised a separate language arts class, with both classes meeting during the same time period of the day. Students were assigned, on a stratified-random basis (stratifying on verbal ability), to either of the two treatment groups. Each treatment group met daily for a 50-minute period. Teacher effect was partially controlled by rotation of teachers across treatment groups every 5-7 days, resulting in equal exposure of both teachers to both treatment conditions. Pre- and post-test measures of academic achievement were obtained. Posttest measures of classroom social process and student attitudes were also administered. The average grade equivalent scores for the Vocabulary section on the Gates-MacGinitie is 4.3 (range from 1.5 to 7.1), and for the Comprehension section is 4.2 (range from 1.4 to 7.0). Independent Variable is 
+Dependent variables were (1) language arts skills, (2) classroom group process, and (3) student perceptions of the class. The authors think TGT works because 
+(1) making success in the classroom (on academic skills) of greater importance 
+(2) increasing the belief that the student has a good chance of success in the classroom. Both changes in beliefs are likely to have direct and positive impact on the student's level of involvement in the classroom.
+
+Description: Three key components: teams, games, and tournaments 
+
+The team component involves placing students on four or five-member teams. The teams are created to form maximal heterogeneity within each team (on such dimensions as student academic ability, sex, and race) and comparability across teams. Team membership is kept intact, and intrateam cohesion is fostered by regularly scheduled team practice sessions as well as the placing of teammates in adjacent seats.
+
+The games, component is defined by a series of instructional games. In order to win at the games, the students must acquire the concepts or skills addressed by the target curriculum unit. In most instances the participating teachers design their own games (based on a Generalized Instructional Gaming Structure, GIGS) using multiple choice, true-false, or other objective-type items.
+
+The games are played in weekly tournaments in which each student competes with two other students of comparable ability representing other teams. At the end of each tournament session (typically lasting from 30 to 45 minutes) a "top scorer," "middle scorer," and "low scorer" is declared at each three-person game table. The individual student's game scores are converted to team scores and winning teams are declared. Classroom newsletters (distributed weekly) provide public feedback and reinforcement for both team and individual scores after each tournament.
+
+Citation: https://files.eric.ed.gov/fulltext/ED110885.pdf
+
+3.	Group Investigation (GI) (Sharan & Sharan,1976, 1992) D
+Description: 
+Stage 1: Identify the topic to be investigated and organizing students into research groups 
+(Step1: This may take two or three class periods. The teacher presents a broad topic to the whole class, encourages diverse reactions, and expose students to different resources. 
+Step 2: The teacher asks student what they want to investigate. Each student writes their own question. 
+Step 3: The teacher makes all the suggestions available to students.
+Step 4: The teacher classifies everyone’s question into several categories. 
+Step 5: The titles of the sub-topics are presented to the whole class.)
+
+Stage 2: Planning the investigation in groups 
+Stage 3: Carrying out an investigation 
+Stage 4: Preparing a final report
+Stage 5: Presenting the final report
+Stage 6: Evaluation 
+
+Citation:
+https://pdfs.semanticscholar.org/d4c0/e18ed10f255c56bfee16ed1c6589b680dc04.pdf
+
+4.	Academic Controversy (Johnson & Johnson, 1979),  D
+The phrase was also used interchangeble with constructive controversy  
+Description: Controversy exists when one person's ideas, information, conclusions, theories, or opinions are incompatible with those of another person, and the two seek to reach an agreement. The author introduces the concept by talking about a scene in social science class when two students get into an argument about why citizens want to be representatives in Congress. The four steps are described below and graph is included for better understanding. 
+
+1)	It begins, as does all learning, with a student categorizing and organizing his present information and experiences so that a conclusion is derived. 
+2)	When the student realizes that other students or the teacher have a different conclusion and that they challenge and contest his conclusion, a state of internal conceptual conflict, uncertainty, or disequilibrium is aroused. 
+3)	The uncertainty motivates an active search—called epistemic curiosity by Berlyne (1971)—for more information, new experiences, and a more adequate cognitive perspective and reasoning process in hopes of resolving the uncertainty. 
+4)	Out of the argumentation and debate a joint agreement is reached as to the correct conclusion. 
+ 
+Citation: https://journals.sagepub.com/doi/pdf/10.3102/00346543049001051?casa_token=LSvbH5y5zZMAAAAA:OcSWgkNqNUHl9DoVpnl3567vwpbcwTIxDtjhY0aIWkLbJFo6NtvDXP6bl4guEjaOLB89BrSO38I
+
+5.	Jigsaw (Aronson, et al., 1978) D
+
+The original jigsaw was published in his book The Jigsaw Classroom (not accessible), and below is the steps that listed on https://www.jigsaw.org/#steps
+There are ten steps: 
+1.	
+Divide students into 5- or 6-person jigsaw groups.
+The groups should be diverse in terms of gender, ethnicity, race, and ability. 
+2.	
+Appoint one student from each group as the leader.
+Initially, this person should be the most mature student in the group.
+3.	
+Divide the day’s lesson into 5-6 segments.
+For example, if you want history students to learn about Eleanor Roosevelt, you might divide a short biography of her into stand-alone segments on: (1) Her childhood, (2) Her family life with Franklin and their children, (3) Her life after Franklin contracted polio, (4) Her work in the White House as First Lady, and (5) Her life and work after Franklin's death.
+4.	Assign each student to learn one segment.
+Make sure students have direct access only to their own segment.
+5.	
+Give students time to read over their segment at least twice and become familiar with it.
+There is no need for them to memorize it.
+6.	
+Form temporary “expert groups” by having one student from each jigsaw group join other students assigned to the same segment.Give students in these expert groups time to discuss the main points of their segment and to rehearse the presentations they will make to their jigsaw group.
+7.	
+Bring the students back into their jigsaw groups.
+8.	
+Ask each student to present her or his segment to the group.
+Encourage others in the group to ask questions for clarification.
+9.	
+Teachers Float from group to group, observing the process.
+If any group is having trouble (e.g., a member is dominating or disruptive), make an appropriate intervention. Eventually, it's best for the group leader to handle this task. Leaders can be trained by whispering an instruction on how to intervene, until the leader gets the hang of it.
+10.	
+At the end of the session, give a quiz on the material.
+Students quickly come to realize that these sessions are not just fun and games but really count.
+
+Citation: 
+In Chen et. al paper, Moreno, 2009 was mentioned. Moreno studied student who learned about botany using an agent-based instructional program with threedifferent learning approaches: individual, jigsaw, or cooperative learning. Results showed no differences among learning approaches onretention. Students in jigsaw groups reported higher cognitive load during learning than students who learned individually; scored lower ona problem-solving transfer test than students in individual and cooperative learning groups; and were less likely to produce elaborated expla-nations and co-construct knowledge with their peers than students in cooperative groups. 
+https://reader.elsevier.com/reader/sd/pii/S095947520900019X?token=3A0C4BC819D4807E142F3AF67FD994C146EC8B2A7A46D0BAAC8C1D66C7D6D6717820F180E9FE9F2621F1291BB7CD52A6
+
+The Jigsaw Basics can be retrieved: 
+https://www.jigsaw.org/pdf/JigsawBasics.pdf
+Another journal that talks about Jigsaw Method in the context of CSCL: http://docplayer.net/10874878-Jigsaw-method-in-the-context-of-cscl.html
+
+6.	Student Teams Achievement Divisions (STAD) (Slavin, 1978) C
+(STAD) uses the same 4- to 5-member heterogeneous teams used in TGT, but replaces the games and tournaments with simple, 15-minute quizzes, which students take after studying in their teams. The quiz scores are translated into team scores using a system called "achievement divisions." The quiz scores of the highest six students in past performance are compared, and the top scorer in this group (the achievement division) earns eight points for his or her team, the second scorer earns six points, and so forth. Then the quiz scores of the next highest six students in past performance are compared, and so on. In this way, student scores are compared only with those of an ability-homogeneous reference group instead of the entire class. A "bumping" procedure changes division assignments from week to week to maintain equality. Students know only their own division assignments; they do not interact in any way with the other members of their division. The achievement division feature maintains the equality of opportunity for contributions to the team score as in TGT. 
+
+Step 1: First Lesson 
+Step 2: Introducing team assignments and team practice(1. Introduce Teams; 2. Inform Students of their team assignment; 3. Introduce Team Practice)
+Step 3: Team Practice and Quiz
+After Quiz day: Scoring Quizzes and Assigning Points
+Citation: 
+Slavin:
+https://www.jstor.org/stable/1170149?seq=1#metadata_info_tab_contents
+Detailed steps: 
+https://files.eric.ed.gov/fulltext/ED237623.pdf (p.24)
+
+7.	Team Assisted Individualization (TAI) (Slavin, Leavey, & Madden, 1982).  C 
+
+1.	Teams. Students were assigned to four- to five-member teams by the project staff.
+2.	 Placement test. The students were pretested at the beginning of the project on mathematics operations using an experimenter-made placement test. Students were placed at the appropriate point in the individualized program based on their performance on this test.
+3.	Team study method (there are a to g sub areas of this step)
+a. Students formed into pairs or triads within their teams. Each student located the unit that he or she was working on and brought it to the team area. Each unit consisted of an instruction sheet, several skillsheets, and answer sheets. 
+b. Students exchanged answer sheets with partners within their teams. 
+c. Each student read his or her instruction sheet, asking teammates or the teacher for help if necessary
+d. After they had read the information sheet, the students began with the first skillsheet in the unit.
+e. Each student worked the first four problems on the skillsheet and then had his or her partner check the answers against the answer sheet. If all four were correct, the student could go on to the next skillsheet. If any were wrong, the student had to try the next four problems, and so on until one block of four problems was completed correctly. 
+f. When a student got four in a row correct on the final skillsheet, he or she could take Checkout A, a ten-item quiz that resembled the last skillsheet. A teammate then scored the checkout. If the student got eight or more correct, the teammate signed the checkout to indicate that the student was certified by the team to take the final test. If the student did not get eight correct, the teacher was called in to explain any problems the student was having. The student then took Checkout B, a second ten-item test comparable in content and difficulty to Checkout A. Otherwise, students skipped Checkout B and went straight to a final test. 
+g. When a student "checked out," he or she took the checkout to a student monitor from a different team to get the appropriate final test. The student then took the test and the monitor scored it. Three different students served as monitors each day. 
+
+4.	Team scores and team recognition 
+5.	Teacher review sessions.
+
+Citation: https://journals.sagepub.com/doi/pdf/10.1177/001440298405000506?casa_token=lZA_jcqVDfgAAAAA:HPqhoZ7I4TXbB8hgx2_cvA6udEbQxkIjtKPxd3vojMMpaEHg9jkXgiUHwwrrYFzPi9-NzxCZ9Kc
+
+8.	Cooperative Integrated Reading and Composition (CIRC) (Stevens, Madden, Slavin, & Farnish, 1987),C
+
+Description: 
+The CIRC program includes three principal elements: basal-related activities, direct instruction in reading comprehension, and integrated language arts/writing 
+The sequence of the activities are as follows: 
+1.	Partner reading
+2.	Story structure and story-related writing
+3.	Words out loud 
+4.	Word meaning
+5.	Story re-tell
+6.	Spelling
+After completed all above, they will do 
+Partner checking, tests, direct instruction in reading comprehension, independent reading, 
+Integrated language arts and writing; involvement of special ed resource teachers and reading teachers. 
+Citation: 
+Steps of Circ: 
+https://pdfs.semanticscholar.org/d1bd/09a777f04d6f0b1007ccdadf9e695e4326a0.pdf
+
+What works Clearinghouse: 
+https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_circ_062612.pdf
+
+Miscellaneous Citations: 
+Another good article which talks about cooperative learning with Teacher Education Students 
+(An application of using above-mentioned strategies such as Jigsaw, Group Investigation and tc)
+http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1A9F31ACB522B4A493A484E3D97EA0F5?doi=10.1.1.134.4840&rep=rep1&type=pdf
+
+An article differentiating cooperative learning, collaborative learning and Problem-based solving
+https://www.lhthompson.com/uploads/4/2/1/1/42117203/comparing_three_types_of_group_work.pdf
+
+A Brief View of Cooperative Learning1 from Across the Pond, Around the World, and Over Time by Lynda Baloche 
+https://thenews.coop/wp-content/uploads/S4-Baloche-133.pdf
+
+
 
 **Basic Elements of Cooprative teams (Johnson. R. T& Johnson.D.W)**
 
@@ -23,31 +193,7 @@ Cooperative Base Groups(Long-term groups (lasting for at least one semester or y
 A few ways: 
 Facilitator, Recorder,Presenter,Materials Manager, Time Keeper, Checker
 Reader, Recorder, Encourager of Participation and Checker for Understanding. (Johnson & Johnson)
-(Retrieved from https://education.illinoisstate.edu/downloads/casei/collaborative_learning_guidea.pdf) Informal Cooperative Learning Groups
-
-**Jig-Saw Procedure** (Johnson and Johnson)
-
-Task:  Think of a reading assignment you will give in the near future.  Divide the assignment in three parts.  Plan how you will use the jig-saw procedure.  Script out exactly what you will say to your class in using each part of the jig-saw procedure.
-
-Procedure:  One way to structure positive interdependence among group members is to use the jigsaw method of creating resource interdependence.  The steps for structuring a "jigsaw" lesson are:  
-
-1.  Cooperative Groups:  Distribute a set of materials to each group.  The set needs to be divisible into the number of members of the group (2, 3, or 4 parts).  Give each member one part of the set of materials.
-
-2.  Preparation Pairs:  Assign students the cooperative task of meeting with someone else in the class who is a member of another learning group and who has the same section of the material and complete two tasks:  
-
-a.  Learning and becoming an expert on their material.
-
-b.  Planning how to teach the material to the other members of their groups. 
-
-3.  Practice Pairs:  Assign students the cooperative task of meeting with someone else in the class who is a member of another learning group and who has learned the same material and share ideas as to how the material may best be taught.  These "practice pairs" review what each plans to teach their group and how.  The best ideas of both are incorporated into each's presentation. 
-
-4.  Cooperative Groups:  Assign students the cooperative tasks of:  
-
-a.  Teaching their area of expertise to the other group members.  
-
-b.  Learning the material being taught by the other members.  
-
-5.  Evaluation:  Assess students' degree of mastery of all the material.  Reward the groups whose members all reach the preset criterion of excellence.  
+(Retrieved from https://education.illinoisstate.edu/downloads/casei/collaborative_learning_guidea.pdf) Informal Cooperative Learning Groups) 
 
 **A few other activities**
 *Stump Your Partner
