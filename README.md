@@ -10,18 +10,19 @@ Besides talking about the effect size of each cooperative learning methods, he a
 evaluating these methods on a five-point scale according to five dimensions a) ease of learning in the method (b) ease of initial use in the classroom, (c) ease of long-term maintenance of use of the method, (d) robustness of the method (applicability to a wide variety of subject areas and grade levels), and (e) ease of method's adapting to changing conditions. The Top five were considered more direct shown as D on the paper’s name. The more conceptual Learning Methods are noted as C. The results indicate that the more conceptual the cooperative learning method, the higher the achievement of cooperative compared with competitive learning. 
 
   
-**1.	Learning Together (LT) (Johnson & Johnson,1975/1999) D ** 
+**1.Learning Together (LT) (Johnson & Johnson,1975/1999) D** 
 
-Description: Their work about learning together was published on the book Learning
+**Description**: Their work about learning together was published on the book Learning
 Together and Alone. I was not able to access their book either online or through library. 
 Kagan mentioned the differences between his methods and Learning Together. The Johnsons postulate five conditions under which cooperative learning is productive: 1. Clearly perceived Positive Interdependence 2. Considerable promotive Face-to-Face interaction 3. Clearly perceived Individual Accountability and personal responsibility to achieve the group's goals 4. Frequent use of the relevant Interpersonal and Small-Group Skills  5. Frequent and regular Group Processing of current functioning to improve the group's future effectiveness. Kagan explained that Johnsons do not include structures in their model.  Training in the Johnson model requires practice in lesson planning. The Johnsons use the term "Groups" instead “teams”. 
 
-Citation: 
+**Citation**: 
 1)	Kagan: https://www.kaganonline.com/free_articles/dr_spencer_kagan/275/Kagan-Structures-and-Learning-Together-What-is-the-Difference
 2)	An article was mentioned in Chen et al’s article using learning together is 
 Workman, M. (2004). Performance and perceived effectiveness in computer-based and computer-aided education: Do cognitive styles make a difference? Computers in Human Behavior, 20, 517–534. doi:10.1016/j.chb.2003.10.003 
 
 **2.	Teams-Games Tournaments (TGT) (DeVries & Edwards, 1974)  C** 
+
 Description: This is retrieved verbatim from the article cited below. 
 
 Description of the study:  The study was conducted for a six-week period and employed a simple, two-group comparison, contrasting TGT with a control treatment involving traditional instructional approaches (meaning lecturing style classrooms, but students were nominally assigned to five-member teams). Each treatment group comprised a separate language arts class, with both classes meeting during the same time period of the day. Students were assigned, on a stratified-random basis (stratifying on verbal ability), to either of the two treatment groups. Each treatment group met daily for a 50-minute period. Teacher effect was partially controlled by rotation of teachers across treatment groups every 5-7 days, resulting in equal exposure of both teachers to both treatment conditions. Pre- and post-test measures of academic achievement were obtained. Posttest measures of classroom social process and student attitudes were also administered. The average grade equivalent scores for the Vocabulary section on the Gates-MacGinitie is 4.3 (range from 1.5 to 7.1), and for the Comprehension section is 4.2 (range from 1.4 to 7.0). Independent Variable is 
@@ -37,9 +38,9 @@ The games, component is defined by a series of instructional games. In order to 
 
 The games are played in weekly tournaments in which each student competes with two other students of comparable ability representing other teams. At the end of each tournament session (typically lasting from 30 to 45 minutes) a "top scorer," "middle scorer," and "low scorer" is declared at each three-person game table. The individual student's game scores are converted to team scores and winning teams are declared. Classroom newsletters (distributed weekly) provide public feedback and reinforcement for both team and individual scores after each tournament.
 
-**Citation: https://files.eric.ed.gov/fulltext/ED110885.pdf
+**Citation: https://files.eric.ed.gov/fulltext/ED110885.pdf** 
 
-**3.	Group Investigation (GI) (Sharan & Sharan,1976, 1992) D ** 
+**3.	Group Investigation (GI) (Sharan & Sharan,1976, 1992) D** 
 
 Description: 
 Stage 1: Identify the topic to be investigated and organizing students into research groups 
@@ -55,10 +56,11 @@ Stage 4: Preparing a final report
 Stage 5: Presenting the final report
 Stage 6: Evaluation 
 
-**Citation:
+**Citation**:
 https://pdfs.semanticscholar.org/d4c0/e18ed10f255c56bfee16ed1c6589b680dc04.pdf
 
-**4.	Academic Controversy (Johnson & Johnson, 1979),  D ** 
+**4.	Academic Controversy (Johnson & Johnson, 1979),  D** 
+
 The phrase was also used interchangeble with constructive controversy  
 Description: Controversy exists when one person's ideas, information, conclusions, theories, or opinions are incompatible with those of another person, and the two seek to reach an agreement. The author introduces the concept by talking about a scene in social science class when two students get into an argument about why citizens want to be representatives in Congress. The four steps are described below and graph is included for better understanding. 
 
@@ -71,7 +73,7 @@ Citation:
 * https://journals.sagepub.com/doi/pdf/10.3102/00346543049001051?
 * casa_token=LSvbH5y5zZMAAAAA:OcSWgkNqNUHl9DoVpnl3567vwpbcwTIxDtjhY0aIWkLbJFo6NtvDXP6bl4guEjaOLB89BrSO38I
 
-**5.	Jigsaw (Aronson, et al., 1978) D
+**5.	Jigsaw (Aronson, et al., 1978) D**
 
 The original jigsaw was published in his book The Jigsaw Classroom (not accessible), and below is the steps that listed on https://www.jigsaw.org/#steps
 There are ten steps: 
@@ -126,7 +128,7 @@ https://www.jstor.org/stable/1170149?seq=1#metadata_info_tab_contents
 Detailed steps: 
 https://files.eric.ed.gov/fulltext/ED237623.pdf (p.24)
 
-**7.	Team Assisted Individualization (TAI) (Slavin, Leavey, & Madden, 1982).  C 
+**7.	Team Assisted Individualization (TAI) (Slavin, Leavey, & Madden, 1982).  C** 
 
 1.	Teams. Students were assigned to four- to five-member teams by the project staff.
 2.	 Placement test. The students were pretested at the beginning of the project on mathematics operations using an experimenter-made placement test. Students were placed at the appropriate point in the individualized program based on their performance on this test.
@@ -145,7 +147,7 @@ g. When a student "checked out," he or she took the checkout to a student monito
 **Citation**: 
 https://journals.sagepub.com/doi/pdf/10.1177/001440298405000506?casa_token=lZA_jcqVDfgAAAAA:HPqhoZ7I4TXbB8hgx2_cvA6udEbQxkIjtKPxd3vojMMpaEHg9jkXgiUHwwrrYFzPi9-NzxCZ9Kc
 
-**8.	Cooperative Integrated Reading and Composition (CIRC) (Stevens, Madden, Slavin, & Farnish, 1987),C
+**8.	Cooperative Integrated Reading and Composition (CIRC) (Stevens, Madden, Slavin, & Farnish, 1987),C**
 
 Description: 
 The CIRC program includes three principal elements: basal-related activities, direct instruction in reading comprehension, and integrated language arts/writing 
