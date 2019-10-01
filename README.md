@@ -12,7 +12,8 @@ evaluating these methods on a five-point scale according to five dimensions a) e
   
 **1.Learning Together (LT) (Johnson & Johnson,1975/1999) D** 
 
-**Description**: Their work about learning together was published on the book Learning
+**Description**: 
+Their work about learning together was published on the book Learning
 Together and Alone. I was not able to access their book either online or through library. 
 Kagan mentioned the differences between his methods and Learning Together. The Johnsons postulate five conditions under which cooperative learning is productive: 1. Clearly perceived Positive Interdependence 2. Considerable promotive Face-to-Face interaction 3. Clearly perceived Individual Accountability and personal responsibility to achieve the group's goals 4. Frequent use of the relevant Interpersonal and Small-Group Skills  5. Frequent and regular Group Processing of current functioning to improve the group's future effectiveness. Kagan explained that Johnsons do not include structures in their model.  Training in the Johnson model requires practice in lesson planning. The Johnsons use the term "Groups" instead “teams”. 
 
@@ -23,7 +24,8 @@ Workman, M. (2004). Performance and perceived effectiveness in computer-based an
 
 **2.	Teams-Games Tournaments (TGT) (DeVries & Edwards, 1974)  C** 
 
-Description: This is retrieved verbatim from the article cited below. 
+**Description**:
+This is retrieved verbatim from the article cited below. 
 
 Description of the study:  The study was conducted for a six-week period and employed a simple, two-group comparison, contrasting TGT with a control treatment involving traditional instructional approaches (meaning lecturing style classrooms, but students were nominally assigned to five-member teams). Each treatment group comprised a separate language arts class, with both classes meeting during the same time period of the day. Students were assigned, on a stratified-random basis (stratifying on verbal ability), to either of the two treatment groups. Each treatment group met daily for a 50-minute period. Teacher effect was partially controlled by rotation of teachers across treatment groups every 5-7 days, resulting in equal exposure of both teachers to both treatment conditions. Pre- and post-test measures of academic achievement were obtained. Posttest measures of classroom social process and student attitudes were also administered. The average grade equivalent scores for the Vocabulary section on the Gates-MacGinitie is 4.3 (range from 1.5 to 7.1), and for the Comprehension section is 4.2 (range from 1.4 to 7.0). Independent Variable is 
 Dependent variables were (1) language arts skills, (2) classroom group process, and (3) student perceptions of the class. The authors think TGT works because 
@@ -42,7 +44,7 @@ The games are played in weekly tournaments in which each student competes with t
 
 **3.	Group Investigation (GI) (Sharan & Sharan,1976, 1992) D** 
 
-Description: 
+**Description:** 
 Stage 1: Identify the topic to be investigated and organizing students into research groups 
 Step1: This may take two or three class periods. The teacher presents a broad topic to the whole class, encourages diverse reactions, and expose students to different resources. 
 Step 2: The teacher asks student what they want to investigate. Each student writes their own question. 
@@ -62,19 +64,20 @@ https://pdfs.semanticscholar.org/d4c0/e18ed10f255c56bfee16ed1c6589b680dc04.pdf
 **4.	Academic Controversy (Johnson & Johnson, 1979),  D** 
 
 The phrase was also used interchangeble with constructive controversy  
-Description: Controversy exists when one person's ideas, information, conclusions, theories, or opinions are incompatible with those of another person, and the two seek to reach an agreement. The author introduces the concept by talking about a scene in social science class when two students get into an argument about why citizens want to be representatives in Congress. The four steps are described below and graph is included for better understanding. 
+**Description:**
+Controversy exists when one person's ideas, information, conclusions, theories, or opinions are incompatible with those of another person, and the two seek to reach an agreement. The author introduces the concept by talking about a scene in social science class when two students get into an argument about why citizens want to be representatives in Congress. The four steps are described below and graph is included for better understanding. 
 
 1)	It begins, as does all learning, with a student categorizing and organizing his present information and experiences so that a conclusion is derived. 
 2)	When the student realizes that other students or the teacher have a different conclusion and that they challenge and contest his conclusion, a state of internal conceptual conflict, uncertainty, or disequilibrium is aroused. 
 3)	The uncertainty motivates an active search—called epistemic curiosity by Berlyne (1971)—for more information, new experiences, and a more adequate cognitive perspective and reasoning process in hopes of resolving the uncertainty. 
 4)	Out of the argumentation and debate a joint agreement is reached as to the correct conclusion. 
  
-Citation: 
+**Citation:** 
 * https://journals.sagepub.com/doi/pdf/10.3102/00346543049001051?
 * casa_token=LSvbH5y5zZMAAAAA:OcSWgkNqNUHl9DoVpnl3567vwpbcwTIxDtjhY0aIWkLbJFo6NtvDXP6bl4guEjaOLB89BrSO38I
 
 **5.	Jigsaw (Aronson, et al., 1978) D**
-
+**Description**
 The original jigsaw was published in his book The Jigsaw Classroom (not accessible), and below is the steps that listed on https://www.jigsaw.org/#steps
 There are ten steps: 
 1.	
@@ -116,20 +119,22 @@ https://www.jigsaw.org/pdf/JigsawBasics.pdf
 Another journal that talks about Jigsaw Method in the context of CSCL: http://docplayer.net/10874878-Jigsaw-method-in-the-context-of-cscl.html
 
 **6.	Student Teams Achievement Divisions (STAD) (Slavin, 1978) C**
+**Description:**
 (STAD) uses the same 4- to 5-member heterogeneous teams used in TGT, but replaces the games and tournaments with simple, 15-minute quizzes, which students take after studying in their teams. The quiz scores are translated into team scores using a system called "achievement divisions." The quiz scores of the highest six students in past performance are compared, and the top scorer in this group (the achievement division) earns eight points for his or her team, the second scorer earns six points, and so forth. Then the quiz scores of the next highest six students in past performance are compared, and so on. In this way, student scores are compared only with those of an ability-homogeneous reference group instead of the entire class. A "bumping" procedure changes division assignments from week to week to maintain equality. Students know only their own division assignments; they do not interact in any way with the other members of their division. The achievement division feature maintains the equality of opportunity for contributions to the team score as in TGT. 
 
 Step 1: First Lesson 
 Step 2: Introducing team assignments and team practice(1. Introduce Teams; 2. Inform Students of their team assignment; 3. Introduce Team Practice)
 Step 3: Team Practice and Quiz
 After Quiz day: Scoring Quizzes and Assigning Points
-Citation: 
-Slavin:
+
+**Citation:** 
+*Slavin:
 https://www.jstor.org/stable/1170149?seq=1#metadata_info_tab_contents
-Detailed steps: 
+*Detailed steps: 
 https://files.eric.ed.gov/fulltext/ED237623.pdf (p.24)
 
 **7.	Team Assisted Individualization (TAI) (Slavin, Leavey, & Madden, 1982).  C** 
-
+**Description**
 1.	Teams. Students were assigned to four- to five-member teams by the project staff.
 2.	 Placement test. The students were pretested at the beginning of the project on mathematics operations using an experimenter-made placement test. Students were placed at the appropriate point in the individualized program based on their performance on this test.
 3.	Team study method (there are a to g sub areas of this step)
@@ -149,7 +154,7 @@ https://journals.sagepub.com/doi/pdf/10.1177/001440298405000506?casa_token=lZA_j
 
 **8.	Cooperative Integrated Reading and Composition (CIRC) (Stevens, Madden, Slavin, & Farnish, 1987),C**
 
-Description: 
+**Description:** 
 The CIRC program includes three principal elements: basal-related activities, direct instruction in reading comprehension, and integrated language arts/writing 
 The sequence of the activities are as follows: 
 1.	Partner reading
@@ -180,7 +185,49 @@ https://www.lhthompson.com/uploads/4/2/1/1/42117203/comparing_three_types_of_gro
 A Brief View of Cooperative Learning1 from Across the Pond, Around the World, and Over Time by Lynda Baloche 
 https://thenews.coop/wp-content/uploads/S4-Baloche-133.pdf
 
+# Below are from Chapter 4 Collaborative Problem- Solving Tasks
+The authors talked about content-free tasks and content-dependent tasks in the paper, with two examples each, and then listed 8 examples in the appendix. 
 
+Content-free tasks 
+**1.	Laughing Clowns (structured symmetrically)** 
+Where two students have 12 balls altogether at their disposal. Each of them needs to put six balls into their clown machines to see if their machines work the same way.  
+
+**2.	Olive Oil Task (structured asymmetrically)**
+The goal of this game is to fill in student B’s jar with 4 liter of olive oil. Student B has no Olive oil dispenser, thus B has to wait for student A to make some arrangement. This requires the solver to work out a sequence of movements to achieve the goal.
+
+Content-dependent tasks 
+**3.	Balance Beam Task (related to physics)**
+Where two students need to place different masses on the beam. To reach balance on the beam, two students need to coordinate on the mass and position (marked with numbers1,2,3,4)
+
+**4.	Game of 20 Task(related to algebra)**
+It involves students working together against the computer to reach a value of 20 by placing counters sequentially on a grid. The students need to identify crucial scores and limits in order to win the game. 
+In order to play the game, students independently choose a number between zero and four which contributes to the combined team number from one to five (that is, the two student values are combined to create their team number). Each student needs to consider the input of their partner when selecting a number, as well as considering which number the computer will select. There are several rounds of number selection until the game total reaches 20. If either team (students or com- puter) enters an amount that exceeds the game total of 20, then that team loses. The aim of the game is for the student team to reach the exact game total of 20 before the computer does. 
+
+**Eight games that are listed in Appendix. I’ve included whether they are content-free or content-dependent, and whether it is structured symmetrically or asymmetrically.**
+
+**5.	Hexagons: I couldn’t see the directions well. I assume it is using number triangle to make a Hexagon.**
+Content-dependent (Math??), symmetrically
+
+**6.	Hot Chocolate: the goal of this task is to select the recipe which makes the biggest profit in Europe. (using chocolate, milk and sugar). And try to solve the problem in the fewer steps possible.** 
+Content-free, asymmetrically
+
+**7.	Plant Growth: in which two students are studying how light and warmth affect plant growth. The plants have everything else that they need to grow, and students will control lighting and temperature to see their effect on the plants.**
+Content-dependent (Science), symmetrically
+
+**8.	 Small Pyramids: one student’s number pyramid is connected to partner’s pyramid. Type a number 1-9 into the RED box and find out how the black number changes.** 
+Content-free, asymmetry
+
+**9.	Shared Garden. Student and his/her partner need to place one plant each in the shared garden to bring its plants back to life. You can test pairs of plants in the practice garden as often as you like, but students can only move a plant to shared garden once. (Students have different plants)**
+Content-free (maybe have something to do with Science, hard to tell), asymmetry
+
+**10.	Sunflower: can you grow the worlds’ tallest sunflower? You and partner have different types of plant food A and B. How many drops of each should you use?** 
+Content-free, asymmetry
+
+**11.	Warehouse. Students need to use cameras to guard six boxes in a warehouse. The boxes are tall so they blocks the views.  Students need to figure out the positioning of five cameras to ensure that they guard the full warehouse.**  
+Content-free, asymmetry
+
+**12.	Light box (symmetry). The laser and target have been moved and there’s a mirror hidden in the box. Where must the mirror be?  Partners have exactly the same question.** 
+Content-dependent(Physics), symmetry
 
 **Basic Elements of Cooprative teams (Johnson. R. T& Johnson.D.W)**
 
