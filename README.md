@@ -1,4 +1,4 @@
-# group-tasks 
+# GOURP TASKS 
 This includes a list of group tasks that are used in cooperative learning, peer tutoring and computer-supported collaborative learning
 # Updated 10/01/19
 
@@ -80,58 +80,37 @@ Controversy exists when one person's ideas, information, conclusions, theories, 
 **Description**
 The original jigsaw was published in his book The Jigsaw Classroom (not accessible), and below is the steps that listed on https://www.jigsaw.org/#steps
 There are ten steps: 
-1.	
-Divide students into 5- or 6-person jigsaw groups.
-The groups should be diverse in terms of gender, ethnicity, race, and ability. 
-2.	
-Appoint one student from each group as the leader.
-Initially, this person should be the most mature student in the group.
-3.	
-Divide the day’s lesson into 5-6 segments.
+* 1.	Divide students into 5- or 6-person jigsaw groups.The groups should be diverse in terms of gender, ethnicity, race, and ability. 
+* 2.	Appoint one student from each group as the leader. Initially, this person should be the most mature student in the group.
+* 3.	Divide the day’s lesson into 5-6 segments.
 For example, if you want history students to learn about Eleanor Roosevelt, you might divide a short biography of her into stand-alone segments on: (1) Her childhood, (2) Her family life with Franklin and their children, (3) Her life after Franklin contracted polio, (4) Her work in the White House as First Lady, and (5) Her life and work after Franklin's death.
-4.	Assign each student to learn one segment.
-Make sure students have direct access only to their own segment.
-5.	
-Give students time to read over their segment at least twice and become familiar with it.
-There is no need for them to memorize it.
-6.	
-Form temporary “expert groups” by having one student from each jigsaw group join other students assigned to the same segment.Give students in these expert groups time to discuss the main points of their segment and to rehearse the presentations they will make to their jigsaw group.
-7.	
-Bring the students back into their jigsaw groups.
-8.	
-Ask each student to present her or his segment to the group.
-Encourage others in the group to ask questions for clarification.
-9.	
-Teachers Float from group to group, observing the process.
-If any group is having trouble (e.g., a member is dominating or disruptive), make an appropriate intervention. Eventually, it's best for the group leader to handle this task. Leaders can be trained by whispering an instruction on how to intervene, until the leader gets the hang of it.
-10.	
-At the end of the session, give a quiz on the material.
-Students quickly come to realize that these sessions are not just fun and games but really count.
+* 4.	Assign each student to learn one segment. Make sure students have direct access only to their own segment.
+* 5.	Give students time to read over their segment at least twice and become familiar with it.There is no need for them to memorize it.
+* 6.	Form temporary “expert groups” by having one student from each jigsaw group join other students assigned to the same segment.Give students in these expert groups time to discuss the main points of their segment and to rehearse the presentations they will make to their jigsaw group.
+* 7.	Bring the students back into their jigsaw groups.
+* 8.	Ask each student to present her or his segment to the group.Encourage others in the group to ask questions for clarification.
+* 9.	Teachers Float from group to group, observing the process.If any group is having trouble (e.g., a member is dominating or disruptive), make an appropriate intervention. Eventually, it's best for the group leader to handle this task. Leaders can be trained by whispering an instruction on how to intervene, until the leader gets the hang of it.
+* 10.	At the end of the session, give a quiz on the material.Students quickly come to realize that these sessions are not just fun and games but really count.
 
 **Citation**: 
 In Chen et. al paper, Moreno, 2009 was mentioned. Moreno studied student who learned about botany using an agent-based instructional program with threedifferent learning approaches: individual, jigsaw, or cooperative learning. Results showed no differences among learning approaches onretention. Students in jigsaw groups reported higher cognitive load during learning than students who learned individually; scored lower ona problem-solving transfer test than students in individual and cooperative learning groups; and were less likely to produce elaborated expla-nations and co-construct knowledge with their peers than students in cooperative groups. 
 
 * https://reader.elsevier.com/reader/sd/pii/S095947520900019X?
-*token=3A0C4BC819D4807E142F3AF67FD994C146EC8B2A7A46D0BAAC8C1D66C7D6D6717820F180E9FE9F2621F1291BB7CD52A6
-
-The Jigsaw Basics can be retrieved: 
-https://www.jigsaw.org/pdf/JigsawBasics.pdf
-Another journal that talks about Jigsaw Method in the context of CSCL: http://docplayer.net/10874878-Jigsaw-method-in-the-context-of-cscl.html
+* The Jigsaw Basics can be retrieved: https://www.jigsaw.org/pdf/JigsawBasics.pdf
+* Another journal that talks about Jigsaw Method in the context of CSCL: http://docplayer.net/10874878-Jigsaw-method-in-the-context-of-cscl.html
 
 **6.	Student Teams Achievement Divisions (STAD) (Slavin, 1978) C**
 **Description:**
 (STAD) uses the same 4- to 5-member heterogeneous teams used in TGT, but replaces the games and tournaments with simple, 15-minute quizzes, which students take after studying in their teams. The quiz scores are translated into team scores using a system called "achievement divisions." The quiz scores of the highest six students in past performance are compared, and the top scorer in this group (the achievement division) earns eight points for his or her team, the second scorer earns six points, and so forth. Then the quiz scores of the next highest six students in past performance are compared, and so on. In this way, student scores are compared only with those of an ability-homogeneous reference group instead of the entire class. A "bumping" procedure changes division assignments from week to week to maintain equality. Students know only their own division assignments; they do not interact in any way with the other members of their division. The achievement division feature maintains the equality of opportunity for contributions to the team score as in TGT. 
 
-Step 1: First Lesson 
-Step 2: Introducing team assignments and team practice(1. Introduce Teams; 2. Inform Students of their team assignment; 3. Introduce Team Practice)
-Step 3: Team Practice and Quiz
-After Quiz day: Scoring Quizzes and Assigning Points
+* Step 1: First Lesson 
+* Step 2: Introducing team assignments and team practice(1. Introduce Teams; 2. Inform Students of their team assignment; 3. Introduce Team Practice)
+* Step 3: Team Practice and Quiz
+* After Quiz day: Scoring Quizzes and Assigning Points
 
 **Citation:** 
-*Slavin:
-https://www.jstor.org/stable/1170149?seq=1#metadata_info_tab_contents
-*Detailed steps: 
-https://files.eric.ed.gov/fulltext/ED237623.pdf (p.24)
+* Slavin:https://www.jstor.org/stable/1170149?seq=1#metadata_info_tab_contents
+* Detailed steps:https://files.eric.ed.gov/fulltext/ED237623.pdf (p.24)
 
 **7.	Team Assisted Individualization (TAI) (Slavin, Leavey, & Madden, 1982).  C** 
 **Description**
@@ -150,7 +129,8 @@ g. When a student "checked out," he or she took the checkout to a student monito
 5.	Teacher review sessions.
 
 **Citation**: 
-https://journals.sagepub.com/doi/pdf/10.1177/001440298405000506?casa_token=lZA_jcqVDfgAAAAA:HPqhoZ7I4TXbB8hgx2_cvA6udEbQxkIjtKPxd3vojMMpaEHg9jkXgiUHwwrrYFzPi9-NzxCZ9Kc
+* https://journals.sagepub.com/doi/pdf/10.1177/001440298405000506?
+
 
 **8.	Cooperative Integrated Reading and Composition (CIRC) (Stevens, Madden, Slavin, & Farnish, 1987),C**
 
@@ -168,27 +148,28 @@ Partner checking, tests, direct instruction in reading comprehension, independen
 Integrated language arts and writing; involvement of special ed resource teachers and reading teachers. 
 
 **Citation**: 
-Steps of Circ: 
+* Steps of Circ: 
 https://pdfs.semanticscholar.org/d1bd/09a777f04d6f0b1007ccdadf9e695e4326a0.pdf
 
-What works Clearinghouse: 
+* What works Clearinghouse: 
 https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_circ_062612.pdf
 
 **Miscellaneous Citations**: 
-Another good article which talks about cooperative learning with Teacher Education Students 
+* Another good article which talks about cooperative learning with Teacher Education Students 
 (An application of using above-mentioned strategies such as Jigsaw, Group Investigation and tc)
 http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1A9F31ACB522B4A493A484E3D97EA0F5?doi=10.1.1.134.4840&rep=rep1&type=pdf
 
-An article differentiating cooperative learning, collaborative learning and Problem-based solving
+* An article differentiating cooperative learning, collaborative learning and Problem-based solving
 https://www.lhthompson.com/uploads/4/2/1/1/42117203/comparing_three_types_of_group_work.pdf
 
-A Brief View of Cooperative Learning1 from Across the Pond, Around the World, and Over Time by Lynda Baloche 
+* A Brief View of Cooperative Learning1 from Across the Pond, Around the World, and Over Time by Lynda Baloche 
 https://thenews.coop/wp-content/uploads/S4-Baloche-133.pdf
 
 # Below are from Chapter 4 Collaborative Problem- Solving Tasks
 The authors talked about content-free tasks and content-dependent tasks in the paper, with two examples each, and then listed 8 examples in the appendix. 
 
 Content-free tasks 
+
 **1.	Laughing Clowns (structured symmetrically)** 
 Where two students have 12 balls altogether at their disposal. Each of them needs to put six balls into their clown machines to see if their machines work the same way.  
 
@@ -196,6 +177,7 @@ Where two students have 12 balls altogether at their disposal. Each of them need
 The goal of this game is to fill in student B’s jar with 4 liter of olive oil. Student B has no Olive oil dispenser, thus B has to wait for student A to make some arrangement. This requires the solver to work out a sequence of movements to achieve the goal.
 
 Content-dependent tasks 
+
 **3.	Balance Beam Task (related to physics)**
 Where two students need to place different masses on the beam. To reach balance on the beam, two students need to coordinate on the mass and position (marked with numbers1,2,3,4)
 
@@ -205,29 +187,29 @@ In order to play the game, students independently choose a number between zero a
 
 **Eight games that are listed in Appendix. I’ve included whether they are content-free or content-dependent, and whether it is structured symmetrically or asymmetrically.**
 
-**5.	Hexagons: I couldn’t see the directions well. I assume it is using number triangle to make a Hexagon.**
-Content-dependent (Math??), symmetrically
+**5.	Hexagons:** I couldn’t see the directions well. I assume it is using number triangle to make a Hexagon.
+* Content-dependent (Math??), symmetrically
 
-**6.	Hot Chocolate: the goal of this task is to select the recipe which makes the biggest profit in Europe. (using chocolate, milk and sugar). And try to solve the problem in the fewer steps possible.** 
-Content-free, asymmetrically
+**6.	Hot Chocolate:** the goal of this task is to select the recipe which makes the biggest profit in Europe. (using chocolate, milk and sugar). And try to solve the problem in the fewer steps possible.
+* Content-free, asymmetrically
 
-**7.	Plant Growth: in which two students are studying how light and warmth affect plant growth. The plants have everything else that they need to grow, and students will control lighting and temperature to see their effect on the plants.**
-Content-dependent (Science), symmetrically
+**7.	Plant Growth:** in which two students are studying how light and warmth affect plant growth. The plants have everything else that they need to grow, and students will control lighting and temperature to see their effect on the plants. 
+* Content-dependent (Science), symmetrically
 
-**8.	 Small Pyramids: one student’s number pyramid is connected to partner’s pyramid. Type a number 1-9 into the RED box and find out how the black number changes.** 
-Content-free, asymmetry
+**8.	 Small Pyramids:** one student’s number pyramid is connected to partner’s pyramid. Type a number 1-9 into the RED box and find out how the black number changes.
+* Content-free, asymmetry
 
-**9.	Shared Garden. Student and his/her partner need to place one plant each in the shared garden to bring its plants back to life. You can test pairs of plants in the practice garden as often as you like, but students can only move a plant to shared garden once. (Students have different plants)**
-Content-free (maybe have something to do with Science, hard to tell), asymmetry
+**9.	Shared Garden:** Student and his/her partner need to place one plant each in the shared garden to bring its plants back to life. You can test pairs of plants in the practice garden as often as you like, but students can only move a plant to shared garden once. (Students have different plants)**
+* Content-free (maybe have something to do with Science, hard to tell), asymmetry
 
-**10.	Sunflower: can you grow the worlds’ tallest sunflower? You and partner have different types of plant food A and B. How many drops of each should you use?** 
-Content-free, asymmetry
+**10.	Sunflower:** can you grow the worlds’ tallest sunflower? You and partner have different types of plant food A and B. How many drops of each should you use? 
+* Content-free, asymmetry
 
-**11.	Warehouse. Students need to use cameras to guard six boxes in a warehouse. The boxes are tall so they blocks the views.  Students need to figure out the positioning of five cameras to ensure that they guard the full warehouse.**  
-Content-free, asymmetry
+**11.	Warehouse.** Students need to use cameras to guard six boxes in a warehouse. The boxes are tall so they blocks the views.  Students need to figure out the positioning of five cameras to ensure that they guard the full warehouse. 
+* Content-free, asymmetry
 
-**12.	Light box (symmetry). The laser and target have been moved and there’s a mirror hidden in the box. Where must the mirror be?  Partners have exactly the same question.** 
-Content-dependent(Physics), symmetry
+**12.	Light box.** The laser and target have been moved and there’s a mirror hidden in the box. Where must the mirror be?  Partners have exactly the same question.
+* Content-dependent(Physics), symmetry
 
 **Basic Elements of Cooprative teams (Johnson. R. T& Johnson.D.W)**
 
@@ -238,9 +220,9 @@ Content-dependent(Physics), symmetry
 * Group Processing
 
 **Types of cooperative learning**
-Formal Cooperative 
-Informal Cooperative Learning Groups (turn and talk)
-Cooperative Base Groups(Long-term groups (lasting for at least one semester or year) with stable membership whose primary responsibility is to give each member the support, encouragement, and assistance he or she needs to progress academically and develop cognitively and socially in healthy ways.  )
+* Formal Cooperative 
+* Informal Cooperative Learning Groups (turn and talk)
+* Cooperative Base Groups(Long-term groups (lasting for at least one semester or year) with stable membership whose primary responsibility is to give each member the support, encouragement, and assistance he or she needs to progress academically and develop cognitively and socially in healthy ways.  )
 
 **Things to consider when doing cooprative learning assignments** 
 * Size (smallest group 2 to largest group 6. Small groups requrire few social skills and work quickly. Large group deal better with complex ideas)
@@ -251,36 +233,36 @@ Cooperative Base Groups(Long-term groups (lasting for at least one semester or y
 A few ways: 
 Facilitator, Recorder,Presenter,Materials Manager, Time Keeper, Checker
 Reader, Recorder, Encourager of Participation and Checker for Understanding. (Johnson & Johnson)
-(Retrieved from https://education.illinoisstate.edu/downloads/casei/collaborative_learning_guidea.pdf) Informal Cooperative Learning Groups) 
+* (Retrieved from https://education.illinoisstate.edu/downloads/casei/collaborative_learning_guidea.pdf)
 
 **A few other activities**
-*Stump Your Partner
+* **Stump Your Partner**
 
 Students take a minute to create a challenging question based on the lecture content up to that point.
 Students pose the question to the person sitting next to them.
 To take this activity a step further, ask students to write down their questions and hand them in. These questions can be used to create tests or exams. They can also be reviewed to gauge student understanding.
 
 
-*Think-Pair-Share/Write-Pair-Share
+* **Think-Pair-Share/Write-Pair-Share**
 The instructor poses a question that demands analysis, evaluation, or synthesis.
 Students take a few minutes to think through an appropriate response.
 Students turn to a partner (or small groups) and share their responses. Take this a step further by asking students to find someone who arrived at an answer different from their own and convince their partner to change their mind.
 Student responses are shared within larger teams or with the entire class during a follow-up discussion.
 
 
-*Catch-Up
+* **Catch-Up**
 Stop at a transition point in your lecture.
 Have students turn to a partner or work in small groups to compare notes and ask clarifying questions.
 After a few minutes, open the floor to a few questions.
 
 
-*Fishbowl Debate
+* **Fishbowl Debate**
 Ask students to sit in groups of three.
 Assign roles. For example, the person on left takes one position on a topic for debate, the person on right takes the opposite position, and the person in the middle takes notes and decides which side is the most convincing and provides an argument for his or her choice.
 Debrief by calling on a few groups to summarize their discussions.
 
 
-*Case Study
+* **Case Study**
 Create four to five case studies of similar difficulty.
 Have students work in groups of four or five to work through and analyze their case study.
 Provide 10-15 minutes (or adequate time) to work through the cases.
@@ -288,7 +270,7 @@ Walk around and address any questions.
 Call on groups randomly and ask that students share their analysis. Continue until each case study has been addressed.
 
 
-*Team-Based Learning
+* **Team-Based Learning**
 Start a course unit by giving students some tasks to complete, such as reading or lab assignments. Consider assigning these to be completed before class.
 Check students' comprehension of the material with a quick multiple-choice quiz. Have students submit their answers.
 Assign students to groups and have them review their answers with group members to reach consensus. Have each group submit one answered quiz.
@@ -298,7 +280,7 @@ Give groups a challenging assignment, such as solving a problem or applying a th
 Find more information on this strategy at  the Team-Based Learning Collaborative.
 
 
-*Group Problem-Solving
+* **Group Problem-Solving** 
 There are many instructional strategies that involve students working together to solve a problem, including inquiry-based learning, authentic learning, and discovery learning. While they each have their own unique characteristics, they fundamentally involve:
 Presenting students with a problem.
 Providing some structure or guidance toward solving the problem. Note however, that they are all student-centered activities in which the instructor may have a very minimal role.
