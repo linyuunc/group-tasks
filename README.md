@@ -211,6 +211,13 @@ In order to play the game, students independently choose a number between zero a
 **12.	Light box.** The laser and target have been moved and there’s a mirror hidden in the box. Where must the mirror be?  Partners have exactly the same question.
 * Content-dependent(Physics), symmetry
 
+Content-dependent(Physics), symmetry
+# Below are from Chen et al’s website: 
+**Role assignment** 
+
+**Scripts** 
+
+# Below are the initial documents. 
 **Basic Elements of Cooprative teams (Johnson. R. T& Johnson.D.W)**
 
 * Positive Interdependece
