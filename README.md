@@ -18,8 +18,8 @@ Together and Alone. I was not able to access their book either online or through
 Kagan mentioned the differences between his methods and Learning Together. The Johnsons postulate five conditions under which cooperative learning is productive: 1. Clearly perceived Positive Interdependence 2. Considerable promotive Face-to-Face interaction 3. Clearly perceived Individual Accountability and personal responsibility to achieve the group's goals 4. Frequent use of the relevant Interpersonal and Small-Group Skills  5. Frequent and regular Group Processing of current functioning to improve the group's future effectiveness. Kagan explained that Johnsons do not include structures in their model.  Training in the Johnson model requires practice in lesson planning. The Johnsons use the term "Groups" instead “teams”. 
 
 **Citation**: 
-1)	Kagan: https://www.kaganonline.com/free_articles/dr_spencer_kagan/275/Kagan-Structures-and-Learning-Together-What-is-the-Difference
-2)	An article was mentioned in Chen et al’s article using learning together is 
+* 	Kagan: https://www.kaganonline.com/free_articles/dr_spencer_kagan/275/Kagan-Structures-and-Learning-Together-What-is-the-Difference
+* 	An article was mentioned in Chen et al’s article using learning together is 
 Workman, M. (2004). Performance and perceived effectiveness in computer-based and computer-aided education: Do cognitive styles make a difference? Computers in Human Behavior, 20, 517–534. doi:10.1016/j.chb.2003.10.003 
 
 **2.	Teams-Games Tournaments (TGT) (DeVries & Edwards, 1974)  C** 
@@ -40,7 +40,7 @@ The games, component is defined by a series of instructional games. In order to 
 
 The games are played in weekly tournaments in which each student competes with two other students of comparable ability representing other teams. At the end of each tournament session (typically lasting from 30 to 45 minutes) a "top scorer," "middle scorer," and "low scorer" is declared at each three-person game table. The individual student's game scores are converted to team scores and winning teams are declared. Classroom newsletters (distributed weekly) provide public feedback and reinforcement for both team and individual scores after each tournament.
 
-**Citation: https://files.eric.ed.gov/fulltext/ED110885.pdf** 
+* Citation: https://files.eric.ed.gov/fulltext/ED110885.pdf** 
 
 **3.	Group Investigation (GI) (Sharan & Sharan,1976, 1992) D** 
 
@@ -58,7 +58,7 @@ Stage 4: Preparing a final report
 Stage 5: Presenting the final report
 Stage 6: Evaluation 
 
-**Citation**:
+* Citation:
 https://pdfs.semanticscholar.org/d4c0/e18ed10f255c56bfee16ed1c6589b680dc04.pdf
 
 **4.	Academic Controversy (Johnson & Johnson, 1979),  D** 
@@ -213,9 +213,70 @@ In order to play the game, students independently choose a number between zero a
 
 Content-dependent(Physics), symmetry
 # Below are from Chen et al’s website: 
+
 **Role assignment** 
 
+* In Chen et al (2012)
+ This is a strategy of structuring collaborative activities in group learning (Morris et al., 2010; Strijbos et al., 2004). According to Hare (1994), roles can be defined as stated or prescribed responsibilities or duties guiding individual behavior and regulating collaboration. Each designated role may assume a type of task completion function, such as data collector, data analyzer, leader, or coordinator, generally assigned by the researcher or instructor.
+
+* In Dillenbourg and Hong (2008)
+**Citation:https://hal.archives-ouvertes.fr/hal-00692019/document**
+They encounter two types of roles in CSCL scripts, ‘induced’ roles and ‘natural’ roles. Induced roles are roles proposed by the script with a low or high degree of coercion. Natural roles refer to the exploitation of differences that exist between students before entering the script. Roles can be induced by restricting access to specific resources 1)documents 2)  tools or by defining specific 3) responsibilities related to student authentication in the system. 
+
+
 **Scripts** 
+
+**1.	Noroozi, Biemans, Weinberger, Mulder, and Chizari (2013) found that collaboration scripts greatly fostered learners’ skills, group task performance, and social interactions.**
+
+* Citation: https://reader.elsevier.com/reader/sd/pii/S0360131512002035?token=0E8186DC0C01759C09461D6EA809BEAC3886EF1C2582C5AF8BD426907BB23CA1EBFE3557C5234809E72EE8274B66C435
+
+* Collaboration scripts provide detailed and explicit guidelines for small groups of learners to clarify what, when and by whom certain activities need to be executed (Weinberger, Stegmann, & Fischer, 2007). Scripts come in different forms (explicit or implicit; graphically embedded in a CSCL tool or included in a teacher’s oral presentation or hand-out materials) (Kollar, Fischer, & Hesse, 2006) and can sequence and specify both individual and collaborative learning activities to facilitate various learning processes and outcomes, including argumentative knowledge construction (seeWeinberger & Fischer, 2006). To prevent split attention of the learners, CSCL scripts have often been realized through prompts (Baker & Lund, 1997). 
+
+Prompts can (as in this study)take the form of **sentence starters** (Nussbaum, Hartley, Sinatra, Reynolds, & Bendixen, 2004; McAllister et al., 2004; Ravenscroft, 2007)or **question stems** (Ge & Land, 2004) and provide learners with **guidelines, hints, and suggestions** that facilitate the enacting of scripts (Ge &Land, 2004; Noroozi, Weinberger et al., 2012; Weinberger, Ertl, Fischer, & Mandl, 2005).
+
+**2.	Dillenbourg, 2002 mentioned that the following of CSCL scripts**
+* Citation: https://telearn.archives-ouvertes.fr/hal-00190230/document
+
+**The Grid Script** 
+It uses Jigsaw as an example. The Design rational of the script is the complementary of knowledge. 
+
+**The ArgueGraph Script**
+It is based on a simple multiple-choice questionnaire produced by the teacher. It integrates face-to-face and online activities. 
+
+**The UniverSante Script**
+It was used in medical education, more precisely in teaching community health. It integrates face-to-face and online activities. 
+
+Other CSCL Scripts he introduced include: 
+**The Magic Book** 
+Used in primary schools following an expedition in Antartica 
+**The Courseware Design Studio**
+It supports project-based learning 
+**Problem-based learning**
+Barrows & Tamblyn, 1980 
+**Reciprocal teaching** 
+Palincsar and Brown (1984): one peer reads a text paragraph and the other questions him/her about his/her understanding, for the next paragraph the roles are shifted. 
+
+**3.	In Dillenbourg and Hong (2008)**
+* Citation: https://hal.archives-ouvertes.fr/hal-00692019/document
+
+Three more detailed examples of CSCL macro-scripts: 
+* ArgueGraph: to trigger argumentation between peers 
+(Levels of interactions are individual, class, group, class, and individual)
+* ConceptGrid: (a sub-class of JIGSAW scripts). (Levels are Group, Individual, Group, Individual, Group, Class) 
+* Wimsim: It addesses two pitfalls of enquiry-based learning (De Jong and Van Joolingen 1998): the lack of explicit negotiation of parameters (Phase 3) and the difficulty of interpreting the representations of results (Phase 6). 
+
+**4.	Vogel, Wecker, Kollar, and Fischer (2017)**
+* Citation: 
+https://link.springer.com/content/pdf/10.1007%2Fs10648-016-9361-7.pdf
+
+It examined the effects of using collaboration scripts as a group interaction–support- ing strategy and reported a small ES of 0.20 for domain-specific knowledge and a large positive ES of 0.95 for argumentation skill when compared with collaboration without scripts. 
+It recognizes the internal scripts (Fischer et al., 2013), play, scene, scriptlet, and role;and covers three different factors as potentional moderators of the effectiveness of CSCL scripts, transactivity, script level, additional content-related support.  
+
+**5. Weinberger and Fischer (2006)**
+* Citation: https://reader.elsevier.com/reader/sd/pii/S0360131505000564?token=7CC572ABFA12F3501A07C9212E407794000EB6FCC880C450F79E09BBC3F53806880BA8263363623D00386C213FB9AD3C
+
+They proposed  a  multi-dimensional  approach  to  analyze  argumentative  knowledgeconstruction in CSCL from sampling and segmentation of the discourse corpora to the analysis of four pro-cess dimensions (participation, epistemic, argumentative, social mode)
+
 
 # Below are the initial documents. 
 **Basic Elements of Cooprative teams (Johnson. R. T& Johnson.D.W)**
