@@ -1,4 +1,4 @@
-# GOURP TASKS 
+# GROUP TASKS 
 This includes a list of group tasks that are used in cooperative learning, peer tutoring and computer-supported collaborative learning
 # Updated 10/02/19
 
