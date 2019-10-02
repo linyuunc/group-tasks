@@ -1,21 +1,20 @@
 # GOURP TASKS 
 This includes a list of group tasks that are used in cooperative learning, peer tutoring and computer-supported collaborative learning
-# Updated 10/01/19
+# Updated 10/02/19
 
-# The following eight cooperative learning methods were discussed in Johnson and Johnson (2000). 
+## The following eight cooperative learning methods were discussed in Johnson and Johnson (2000). 
 
 Cooperative Learning methods are summarized briefly.
 
 Besides talking about the effect size of each cooperative learning methods, he also talks about 
-evaluating these methods on a five-point scale according to five dimensions a) ease of learning in the method (b) ease of initial use in the classroom, (c) ease of long-term maintenance of use of the method, (d) robustness of the method (applicability to a wide variety of subject areas and grade levels), and (e) ease of method's adapting to changing conditions. The Top five were considered more direct shown as D on the paper’s name. The more conceptual Learning Methods are noted as C. The results indicate that the more conceptual the cooperative learning method, the higher the achievement of cooperative compared with competitive learning. 
+evaluating these methods on a five-point scale according to five dimensions a) ease of learning in the method (b) ease of initial use in the classroom, (c) ease of long-term maintenance of use of the method, (d) robustness of the method (applicability to a wide variety of subject areas and grade levels), and (e) ease of method's adapting to changing conditions. The Top five were considered more **direct** shown as D at the end of the paper’s title. The more conceptual Learning Methods are noted as C. The results indicate that the more conceptual the cooperative learning method, the higher the achievement of cooperative compared with competitive learning. 
 
   
 **1.Learning Together (LT) (Johnson & Johnson,1975/1999) D** 
 
 **Description**: 
-Their work about learning together was published on the book Learning
-Together and Alone. I was not able to access their book either online or through library. 
-Kagan mentioned the differences between his methods and Learning Together. The Johnsons postulate five conditions under which cooperative learning is productive: 1. Clearly perceived Positive Interdependence 2. Considerable promotive Face-to-Face interaction 3. Clearly perceived Individual Accountability and personal responsibility to achieve the group's goals 4. Frequent use of the relevant Interpersonal and Small-Group Skills  5. Frequent and regular Group Processing of current functioning to improve the group's future effectiveness. Kagan explained that Johnsons do not include structures in their model.  Training in the Johnson model requires practice in lesson planning. The Johnsons use the term "Groups" instead “teams”. 
+Their work about learning together was published on the book Learning Together and Alone. I was not able to access their book either online or through library. 
+However, Kagan mentioned the differences between his methods and Learning Together. The Johnsons postulate five conditions under which cooperative learning is productive: 1. Clearly perceived Positive Interdependence 2. Considerable promotive Face-to-Face interaction 3. Clearly perceived Individual Accountability and personal responsibility to achieve the group's goals 4. Frequent use of the relevant Interpersonal and Small-Group Skills  5. Frequent and regular Group Processing of current functioning to improve the group's future effectiveness. Kagan explained that Johnsons do not include structures in their model.  Training in the Johnson model requires practice in lesson planning. The Johnsons use the term "Groups" instead “teams”. 
 
 **Citation**: 
 * 	Kagan: https://www.kaganonline.com/free_articles/dr_spencer_kagan/275/Kagan-Structures-and-Learning-Together-What-is-the-Difference
@@ -27,25 +26,26 @@ Workman, M. (2004). Performance and perceived effectiveness in computer-based an
 **Description**:
 This is retrieved verbatim from the article cited below. 
 
-Description of the study:  The study was conducted for a six-week period and employed a simple, two-group comparison, contrasting TGT with a control treatment involving traditional instructional approaches (meaning lecturing style classrooms, but students were nominally assigned to five-member teams). Each treatment group comprised a separate language arts class, with both classes meeting during the same time period of the day. Students were assigned, on a stratified-random basis (stratifying on verbal ability), to either of the two treatment groups. Each treatment group met daily for a 50-minute period. Teacher effect was partially controlled by rotation of teachers across treatment groups every 5-7 days, resulting in equal exposure of both teachers to both treatment conditions. Pre- and post-test measures of academic achievement were obtained. Posttest measures of classroom social process and student attitudes were also administered. The average grade equivalent scores for the Vocabulary section on the Gates-MacGinitie is 4.3 (range from 1.5 to 7.1), and for the Comprehension section is 4.2 (range from 1.4 to 7.0). Independent Variable is 
-Dependent variables were (1) language arts skills, (2) classroom group process, and (3) student perceptions of the class. The authors think TGT works because 
+Description of the study:  The study was conducted for a six-week period and employed a simple, two-group comparison, contrasting TGT with a control treatment involving traditional instructional approaches (meaning lecturing style classrooms, but students were nominally assigned to five-member teams). Each treatment group comprised a separate language arts class, with both classes meeting during the same time period of the day. Students were assigned, on a stratified-random basis (stratifying on verbal ability), to either of the two treatment groups. Each treatment group met daily for a 50-minute period. Teacher effect was partially controlled by rotation of teachers across treatment groups every 5-7 days, resulting in equal exposure of both teachers to both treatment conditions. Pre- and post-test measures of academic achievement were obtained. Posttest measures of classroom social process and student attitudes were also administered. The average grade equivalent scores for the Vocabulary section on the Gates-MacGinitie is 4.3 (range from 1.5 to 7.1), and for the Comprehension section is 4.2 (range from 1.4 to 7.0). 
+The authors think TGT works because 
 (1) making success in the classroom (on academic skills) of greater importance 
 (2) increasing the belief that the student has a good chance of success in the classroom. Both changes in beliefs are likely to have direct and positive impact on the student's level of involvement in the classroom.
 
-Description: Three key components: teams, games, and tournaments 
+Description: Three key components: *teams, games, and tournaments*
 
 The team component involves placing students on four or five-member teams. The teams are created to form maximal heterogeneity within each team (on such dimensions as student academic ability, sex, and race) and comparability across teams. Team membership is kept intact, and intrateam cohesion is fostered by regularly scheduled team practice sessions as well as the placing of teammates in adjacent seats.
 
 The games, component is defined by a series of instructional games. In order to win at the games, the students must acquire the concepts or skills addressed by the target curriculum unit. In most instances the participating teachers design their own games (based on a Generalized Instructional Gaming Structure, GIGS) using multiple choice, true-false, or other objective-type items.
 
-The games are played in weekly tournaments in which each student competes with two other students of comparable ability representing other teams. At the end of each tournament session (typically lasting from 30 to 45 minutes) a "top scorer," "middle scorer," and "low scorer" is declared at each three-person game table. The individual student's game scores are converted to team scores and winning teams are declared. Classroom newsletters (distributed weekly) provide public feedback and reinforcement for both team and individual scores after each tournament.
+The games are played in **weekly** tournaments in which each student competes with two other students of comparable ability representing other teams. At the end of each tournament session (typically lasting from 30 to 45 minutes) a "top scorer," "middle scorer," and "low scorer" is declared at each three-person game table. The individual student's game scores are converted to team scores and winning teams are declared. Classroom newsletters (distributed weekly) provide public feedback and reinforcement for both team and individual scores after each tournament.
 
 * Citation: https://files.eric.ed.gov/fulltext/ED110885.pdf** 
 
 **3.	Group Investigation (GI) (Sharan & Sharan,1976, 1992) D** 
 
 **Description:** 
-Stage 1: Identify the topic to be investigated and organizing students into research groups 
+Stage 1: Identify the topic to be investigated and organizing students into research groups (There are 5 steps in stage 1.)
+
 Step1: This may take two or three class periods. The teacher presents a broad topic to the whole class, encourages diverse reactions, and expose students to different resources. 
 Step 2: The teacher asks student what they want to investigate. Each student writes their own question. 
 Step 3: The teacher makes all the suggestions available to students.
@@ -63,7 +63,8 @@ https://pdfs.semanticscholar.org/d4c0/e18ed10f255c56bfee16ed1c6589b680dc04.pdf
 
 **4.	Academic Controversy (Johnson & Johnson, 1979),  D** 
 
-The phrase was also used interchangeble with constructive controversy  
+The phrase was also used interchangeble with constructive controversy in Johnson and Johnson article. 
+
 **Description:**
 Controversy exists when one person's ideas, information, conclusions, theories, or opinions are incompatible with those of another person, and the two seek to reach an agreement. The author introduces the concept by talking about a scene in social science class when two students get into an argument about why citizens want to be representatives in Congress. The four steps are described below and graph is included for better understanding. 
 
@@ -71,7 +72,9 @@ Controversy exists when one person's ideas, information, conclusions, theories, 
 2)	When the student realizes that other students or the teacher have a different conclusion and that they challenge and contest his conclusion, a state of internal conceptual conflict, uncertainty, or disequilibrium is aroused. 
 3)	The uncertainty motivates an active search—called epistemic curiosity by Berlyne (1971)—for more information, new experiences, and a more adequate cognitive perspective and reasoning process in hopes of resolving the uncertainty. 
 4)	Out of the argumentation and debate a joint agreement is reached as to the correct conclusion. 
- 
+
+![Image of Constroversy](https://octodex.github.com/images/yaktocat.png)
+
 **Citation:** 
 * https://journals.sagepub.com/doi/pdf/10.3102/00346543049001051?
 
@@ -93,7 +96,7 @@ For example, if you want history students to learn about Eleanor Roosevelt, you 
 * 10.	At the end of the session, give a quiz on the material.Students quickly come to realize that these sessions are not just fun and games but really count.
 
 **Citation**: 
-In Chen et. al paper, Moreno, 2009 was mentioned. Moreno studied student who learned about botany using an agent-based instructional program with threedifferent learning approaches: individual, jigsaw, or cooperative learning. Results showed no differences among learning approaches onretention. Students in jigsaw groups reported higher cognitive load during learning than students who learned individually; scored lower ona problem-solving transfer test than students in individual and cooperative learning groups; and were less likely to produce elaborated expla-nations and co-construct knowledge with their peers than students in cooperative groups. 
+In Chen et. al paper, Moreno, 2009 was mentioned. Moreno studied student who learned about botany using an agent-based instructional program with threedifferent learning approaches: individual, jigsaw, or cooperative learning. Results showed no differences among learning approaches onretention. Students in jigsaw groups reported higher cognitive load during learning than students who learned individually; *scored lower* on a problem-solving transfer test than students in individual and cooperative learning groups; and were less likely to produce elaborated expla-nations and co-construct knowledge with their peers than students in cooperative groups. 
 
 * https://reader.elsevier.com/reader/sd/pii/S095947520900019X?
 * The Jigsaw Basics can be retrieved: https://www.jigsaw.org/pdf/JigsawBasics.pdf
@@ -101,7 +104,8 @@ In Chen et. al paper, Moreno, 2009 was mentioned. Moreno studied student who lea
 
 **6.	Student Teams Achievement Divisions (STAD) (Slavin, 1978) C**
 **Description:**
-(STAD) uses the same 4- to 5-member heterogeneous teams used in TGT, but replaces the games and tournaments with simple, 15-minute quizzes, which students take after studying in their teams. The quiz scores are translated into team scores using a system called "achievement divisions." The quiz scores of the highest six students in past performance are compared, and the top scorer in this group (the achievement division) earns eight points for his or her team, the second scorer earns six points, and so forth. Then the quiz scores of the next highest six students in past performance are compared, and so on. In this way, student scores are compared only with those of an ability-homogeneous reference group instead of the entire class. A "bumping" procedure changes division assignments from week to week to maintain equality. Students know only their own division assignments; they do not interact in any way with the other members of their division. The achievement division feature maintains the equality of opportunity for contributions to the team score as in TGT. 
+
+(STAD) uses the same 4- to 5-member heterogeneous teams used in TGT, but replaces the games and tournaments with simple, 15-minute quizzes, which students take after studying in their teams. The quiz scores are translated into team scores using a system called *achievement divisions*. The quiz scores of the highest six students in past performance are compared, and the top scorer in this group (the achievement division) earns eight points for his or her team, the second scorer earns six points, and so forth. Then the quiz scores of the next highest six students in past performance are compared, and so on. In this way, student scores are compared only with those of an ability-homogeneous reference group instead of the entire class. A "bumping" procedure changes division assignments from week to week to maintain equality. Students know only their own division assignments; they do not interact in any way with the other members of their division. The achievement division feature maintains the equality of opportunity for contributions to the team score as in TGT. 
 
 * Step 1: First Lesson 
 * Step 2: Introducing team assignments and team practice(1. Introduce Teams; 2. Inform Students of their team assignment; 3. Introduce Team Practice)
@@ -117,13 +121,14 @@ In Chen et. al paper, Moreno, 2009 was mentioned. Moreno studied student who lea
 1.	Teams. Students were assigned to four- to five-member teams by the project staff.
 2.	 Placement test. The students were pretested at the beginning of the project on mathematics operations using an experimenter-made placement test. Students were placed at the appropriate point in the individualized program based on their performance on this test.
 3.	Team study method (there are a to g sub areas of this step)
-a. Students formed into pairs or triads within their teams. Each student located the unit that he or she was working on and brought it to the team area. Each unit consisted of an instruction sheet, several skillsheets, and answer sheets. 
-b. Students exchanged answer sheets with partners within their teams. 
-c. Each student read his or her instruction sheet, asking teammates or the teacher for help if necessary
-d. After they had read the information sheet, the students began with the first skillsheet in the unit.
-e. Each student worked the first four problems on the skillsheet and then had his or her partner check the answers against the answer sheet. If all four were correct, the student could go on to the next skillsheet. If any were wrong, the student had to try the next four problems, and so on until one block of four problems was completed correctly. 
-f. When a student got four in a row correct on the final skillsheet, he or she could take Checkout A, a ten-item quiz that resembled the last skillsheet. A teammate then scored the checkout. If the student got eight or more correct, the teammate signed the checkout to indicate that the student was certified by the team to take the final test. If the student did not get eight correct, the teacher was called in to explain any problems the student was having. The student then took Checkout B, a second ten-item test comparable in content and difficulty to Checkout A. Otherwise, students skipped Checkout B and went straight to a final test. 
-g. When a student "checked out," he or she took the checkout to a student monitor from a different team to get the appropriate final test. The student then took the test and the monitor scored it. Three different students served as monitors each day. 
+
+* a. Students formed into pairs or triads within their teams. Each student located the unit that he or she was working on and brought it to the team area. Each unit consisted of an instruction sheet, several skillsheets, and answer sheets. 
+* b. Students exchanged answer sheets with partners within their teams. 
+* c. Each student read his or her instruction sheet, asking teammates or the teacher for help if necessary
+* d. After they had read the information sheet, the students began with the first skillsheet in the unit.
+* e. Each student worked the first four problems on the skillsheet and then had his or her partner check the answers against the answer sheet. If all four were correct, the student could go on to the next skillsheet. If any were wrong, the student had to try the next four problems, and so on until one block of four problems was completed correctly. 
+* f. When a student got four in a row correct on the final skillsheet, he or she could take Checkout A, a ten-item quiz that resembled the last skillsheet. A teammate then scored the checkout. If the student got eight or more correct, the teammate signed the checkout to indicate that the student was certified by the team to take the final test. If the student did not get eight correct, the teacher was called in to explain any problems the student was having. The student then took Checkout B, a second ten-item test comparable in content and difficulty to Checkout A. Otherwise, students skipped Checkout B and went straight to a final test. 
+* g. When a student "checked out," he or she took the checkout to a student monitor from a different team to get the appropriate final test. The student then took the test and the monitor scored it. Three different students served as monitors each day. 
 
 4.	Team scores and team recognition 
 5.	Teacher review sessions.
@@ -143,8 +148,7 @@ The sequence of the activities are as follows:
 4.	Word meaning
 5.	Story re-tell
 6.	Spelling
-After completed all above, they will do 
-Partner checking, tests, direct instruction in reading comprehension, independent reading, 
+After completed all above, they will do Partner checking, tests, direct instruction in reading comprehension, independent reading, 
 Integrated language arts and writing; involvement of special ed resource teachers and reading teachers. 
 
 **Citation**: 
@@ -155,9 +159,7 @@ https://pdfs.semanticscholar.org/d1bd/09a777f04d6f0b1007ccdadf9e695e4326a0.pdf
 https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_circ_062612.pdf
 
 **Miscellaneous Citations**: 
-* Another good article which talks about cooperative learning with Teacher Education Students 
-(An application of using above-mentioned strategies such as Jigsaw, Group Investigation and tc)
-http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1A9F31ACB522B4A493A484E3D97EA0F5?doi=10.1.1.134.4840&rep=rep1&type=pdf
+
 
 * An article differentiating cooperative learning, collaborative learning and Problem-based solving
 https://www.lhthompson.com/uploads/4/2/1/1/42117203/comparing_three_types_of_group_work.pdf
@@ -165,7 +167,7 @@ https://www.lhthompson.com/uploads/4/2/1/1/42117203/comparing_three_types_of_gro
 * A Brief View of Cooperative Learning1 from Across the Pond, Around the World, and Over Time by Lynda Baloche 
 https://thenews.coop/wp-content/uploads/S4-Baloche-133.pdf
 
-# Below are from Chapter 4 Collaborative Problem- Solving Tasks
+## Below are from Chapter 4 Collaborative Problem- Solving Tasks
 The authors talked about content-free tasks and content-dependent tasks in the paper, with two examples each, and then listed 8 examples in the appendix. 
 
 Content-free tasks 
@@ -211,31 +213,31 @@ In order to play the game, students independently choose a number between zero a
 **12.	Light box.** The laser and target have been moved and there’s a mirror hidden in the box. Where must the mirror be?  Partners have exactly the same question.
 * Content-dependent(Physics), symmetry
 
-# Other Collaborative Learning Environment (Updated 10.01.19) More details needed
+## Other Collaborative Learning Environment (Updated 10.01.19) More details needed
 
 * Knowledge Forum (Scardamalia & Bereiter, Chapter 20 IHLS) 
 Tools: 
 * Sensemaker of the WISE project ((Linn, Davis, & Bell, 2008; see Andriessen & Baker, Chapter 22, IHLS)
 Make argumentation highly visible to encourage productive debate between competing scientiic ideas. 
+
 * Learning by Design (Kolodner, 2006)
 encourages learners to carefully check which “physical facts” other groups use when they design a balloon car, all made visibly different from others in the form of white-boarding. They design a car based on the given “evidence,” experimented and reported by other groups, to win the race.
 
 * Hypothesis-Experiment Instruction 
 This is simiar to "predict-observe-explain" method used to overcome scientific misconceptions. 
+
 * The Knowledge Constructive Jigsaw  (lesson con- sists of a set of strategic procedures for discussion and a “problem,” an experiment whose answer is predicted and discussed by the students. An HEI unit consists of multiple such problems, carefully ordered to guide the devel- opment of scientiic concepts underlying the problem set. Each student in an HEI class is expected to integrate the results of the experiments in her/his own way to formulate a hypothesis. These differing hypotheses then are used to facilitate whole classroom discussion (Hatano & Inagaki, 1986).
 
-
-
-# Below are from Chen et al’s website: 
+## Below are from Chen et al’s website: 
 
 **Role assignment** 
 
 * In Chen et al (2012)
- This is a strategy of structuring collaborative activities in group learning (Morris et al., 2010; Strijbos et al., 2004). According to Hare (1994), roles can be defined as stated or prescribed responsibilities or duties guiding individual behavior and regulating collaboration. Each designated role may assume a type of task completion function, such as data collector, data analyzer, leader, or coordinator, generally assigned by the researcher or instructor.
+ This is a strategy of structuring collaborative activities in group learning (Morris et al., 2010; Strijbos et al., 2004). According to Hare (1994), roles can be defined as stated or prescribed responsibilities or duties guiding individual behavior and regulating collaboration. Each designated role may assume a type of task completion function, such as *data collector, data analyzer, leader, or coordinator, generally assigned by the researcher or instructor*.
 
 * In Dillenbourg and Hong (2008)
-**Citation:https://hal.archives-ouvertes.fr/hal-00692019/document**
-They encounter two types of roles in CSCL scripts, ‘induced’ roles and ‘natural’ roles. Induced roles are roles proposed by the script with a low or high degree of coercion. Natural roles refer to the exploitation of differences that exist between students before entering the script. Roles can be induced by restricting access to specific resources 1)documents 2)  tools or by defining specific 3) responsibilities related to student authentication in the system. 
+* Citation:https://hal.archives-ouvertes.fr/hal-00692019/document**
+They encounter two types of roles in CSCL scripts, ‘induced’ roles and ‘natural’ roles. Induced roles are roles proposed by the script with a low or high degree of coercion. Natural roles refer to the exploitation of differences that exist between students before entering the script. Roles can be induced by restricting access to specific resources 1)documents 2)tools or by defining specific 3)responsibilities related to student authentication in the system. 
 
 
 **Scripts** 
@@ -260,7 +262,7 @@ It is based on a simple multiple-choice questionnaire produced by the teacher. I
 **The UniverSante Script**
 It was used in medical education, more precisely in teaching community health. It integrates face-to-face and online activities. 
 
-Other CSCL Scripts he introduced include: 
+Other CSCL Scripts he introduced include: Need more details 
 **The Magic Book** 
 Used in primary schools following an expedition in Antartica 
 **The Courseware Design Studio**
@@ -289,7 +291,7 @@ It recognizes the internal scripts (Fischer et al., 2013), play, scene, scriptle
 **5. Weinberger and Fischer (2006)**
 * Citation: https://reader.elsevier.com/reader/sd/pii/S0360131505000564?token=7CC572ABFA12F3501A07C9212E407794000EB6FCC880C450F79E09BBC3F53806880BA8263363623D00386C213FB9AD3C
 
-They proposed  a  multi-dimensional  approach  to  analyze  argumentative  knowledgeconstruction in CSCL from sampling and segmentation of the discourse corpora to the analysis of four pro-cess dimensions (participation, epistemic, argumentative, social mode)***
+They proposed  a  multi-dimensional  approach  to  analyze  argumentative  knowledgeconstruction in CSCL from sampling and segmentation of the discourse corpora to the analysis of four pro-cess dimensions (participation, epistemic, argumentative, social mode)
 
 **6. A Knowledge Communities aand Inquiry (KCI) Script by Slotta, Quintana, and Moher (2018) in IHLS**
 Description: The first phase was conducted as a whole-class activity, with students familiarizing themselves with all four habitats to inform a community-wide knowledge base of the habitats, the species, and their interdependencies. The four ecosystems varied in terms of habitat conditions (how much pipe and brick, and what temperature) and also varied in terms of the population levels of different species (flora and fauna). Students were divided into four teams, with each taking stewardship of one wall (i.e., its habitat and denizen species), and tasked with understanding their habitat and species, then reasoning and problem-solving around any observed perturbations, making use of community-level knowledge, and sharing their own findings with the wider community. 
@@ -301,13 +303,6 @@ Description: The first phase was conducted as a whole-class activity, with stude
 * Phase 3: In the final phase, teams could make changes to their ecosystems by either introducing a new species, or increasing or decreasing a species that was already present. The goal was to improve the overall health of the ecosystem, either by trying to return the ecosystem to its original state or by creating a more diverse ecosystem (i.e., with a robust combination of predators, herbivores, and resource
 
 # Below are the initial documents. 
-**Basic Elements of Cooprative teams (Johnson. R. T& Johnson.D.W)**
-
-* Positive Interdependece
-* Individual Accountability
-* Face-to-Face Promotive Interaction??
-* Interpersonal And Small Group Skills
-* Group Processing
 
 **Types of cooperative learning**
 * Formal Cooperative 
@@ -375,3 +370,7 @@ There are many instructional strategies that involve students working together t
 Presenting students with a problem.
 Providing some structure or guidance toward solving the problem. Note however, that they are all student-centered activities in which the instructor may have a very minimal role.
 Reaching a final outcome or solution.
+
+* Another good article which talks about cooperative learning with Teacher Education Students 
+(An application of using above-mentioned strategies such as Jigsaw, Group Investigation and tc)
+http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=1A9F31ACB522B4A493A484E3D97EA0F5?doi=10.1.1.134.4840&rep=rep1&type=pdf
