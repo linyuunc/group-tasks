@@ -1,5 +1,18 @@
 # GROUP TASKS 
 This includes a list of group tasks that are used in cooperative learning, peer tutoring and computer-supported collaborative learning
+
+# PH Edits
+For each task or task component / stage, consider
+
+* The different ways of inducing positive interdependence (roles, goals, rewards, as/symmetrical information, or other task structures, or something else, or nothing?)
+
+* What type of task it is (McGraths circumplex)
+
+* Any considerations about group composition (size, homo/heterogeneous traits, which traits, etc)
+
+* Please also describe each task in sufficient detail (bullets not paragraphs) that the reader could plan how to do the task. 
+
+* include screen shots where relevant
 # Updated 10/02/19
 
 ## The following eight cooperative learning methods were discussed in Johnson and Johnson (2000). 
