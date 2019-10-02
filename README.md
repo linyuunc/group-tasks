@@ -73,7 +73,7 @@ Controversy exists when one person's ideas, information, conclusions, theories, 
 3)	The uncertainty motivates an active search—called epistemic curiosity by Berlyne (1971)—for more information, new experiences, and a more adequate cognitive perspective and reasoning process in hopes of resolving the uncertainty. 
 4)	Out of the argumentation and debate a joint agreement is reached as to the correct conclusion. 
 
-![Image of Constroversy](https://octodex.github.com/images/yaktocat.png)
+![Image of Constroversy](https://github.com/linyuunc/hello-world/blob/master/Picture1.png)
 
 **Citation:** 
 * https://journals.sagepub.com/doi/pdf/10.3102/00346543049001051?
