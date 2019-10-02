@@ -23,15 +23,8 @@ Workman, M. (2004). Performance and perceived effectiveness in computer-based an
 
 **2.	Teams-Games Tournaments (TGT) (DeVries & Edwards, 1974)  C** 
 
-**Description**:
-This is retrieved verbatim from the article cited below. 
-
+**Description**：Three key components: *teams, games, and tournaments*
 Description of the study:  The study was conducted for a six-week period and employed a simple, two-group comparison, contrasting TGT with a control treatment involving traditional instructional approaches (meaning lecturing style classrooms, but students were nominally assigned to five-member teams). Each treatment group comprised a separate language arts class, with both classes meeting during the same time period of the day. Students were assigned, on a stratified-random basis (stratifying on verbal ability), to either of the two treatment groups. Each treatment group met daily for a 50-minute period. Teacher effect was partially controlled by rotation of teachers across treatment groups every 5-7 days, resulting in equal exposure of both teachers to both treatment conditions. Pre- and post-test measures of academic achievement were obtained. Posttest measures of classroom social process and student attitudes were also administered. The average grade equivalent scores for the Vocabulary section on the Gates-MacGinitie is 4.3 (range from 1.5 to 7.1), and for the Comprehension section is 4.2 (range from 1.4 to 7.0). 
-The authors think TGT works because 
-(1) making success in the classroom (on academic skills) of greater importance 
-(2) increasing the belief that the student has a good chance of success in the classroom. Both changes in beliefs are likely to have direct and positive impact on the student's level of involvement in the classroom.
-
-Description: Three key components: *teams, games, and tournaments*
 
 The team component involves placing students on four or five-member teams. The teams are created to form maximal heterogeneity within each team (on such dimensions as student academic ability, sex, and race) and comparability across teams. Team membership is kept intact, and intrateam cohesion is fostered by regularly scheduled team practice sessions as well as the placing of teammates in adjacent seats.
 
