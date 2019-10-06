@@ -1,5 +1,16 @@
 # GROUP TASKS 
 This includes a list of group tasks that are used in cooperative learning, peer tutoring and computer-supported collaborative learning
+## POSITIVE INTERDEPENDENCE 
+INCLUDES positive goal, reward-celebrate, resource, role, task (the next one depends on the previous one), identity, threat (when groups are plced in competition);fantasy interdependence. 
+
+The grouping is retrieved from: 
+http://digsys.upc.es/ed/general/Gasteiz/docs_ac/Johnson_Overview_of_Cooperative_Learning.pdf 2002 
+ 
+The following categories will be used to categorize the following Cooperative learning methods. 
+* Ways of Interdependece: 
+* Type of tasks (McGraths circumplex): 
+* Group Composition: 
+* Screenshots and other info:
 
 # PH Edits
 For each task or task component / stage, consider
@@ -13,21 +24,21 @@ For each task or task component / stage, consider
 * Please also describe each task in sufficient detail (bullets not paragraphs) that the reader could plan how to do the task. 
 
 * include screen shots where relevant
-# Updated 10/02/19
+# Updated 10/06/19 (Will add on types of tasks later) 
 
 ## The following eight cooperative learning methods were discussed in Johnson and Johnson (2000). 
 
-Cooperative Learning methods are summarized briefly.
-
-Besides talking about the effect size of each cooperative learning methods, he also talks about 
-evaluating these methods on a five-point scale according to five dimensions a) ease of learning in the method (b) ease of initial use in the classroom, (c) ease of long-term maintenance of use of the method, (d) robustness of the method (applicability to a wide variety of subject areas and grade levels), and (e) ease of method's adapting to changing conditions. The Top five were considered more **direct** shown as D at the end of the paper’s title. The more conceptual Learning Methods are noted as C. The results indicate that the more conceptual the cooperative learning method, the higher the achievement of cooperative compared with competitive learning. 
-
   
-**1.Learning Together (LT) (Johnson & Johnson,1975/1999) D** 
+**1.Learning Together (LT) (Johnson & Johnson,1975/1999) 
 
 **Description**: 
-Their work about learning together was published on the book Learning Together and Alone. I was not able to access their book either online or through library. 
-However, Kagan mentioned the differences between his methods and Learning Together. The Johnsons postulate five conditions under which cooperative learning is productive: 1. Clearly perceived Positive Interdependence 2. Considerable promotive Face-to-Face interaction 3. Clearly perceived Individual Accountability and personal responsibility to achieve the group's goals 4. Frequent use of the relevant Interpersonal and Small-Group Skills  5. Frequent and regular Group Processing of current functioning to improve the group's future effectiveness. Kagan explained that Johnsons do not include structures in their model.  Training in the Johnson model requires practice in lesson planning. The Johnsons use the term "Groups" instead “teams”. 
+Their work about learning together was published on the book Learning Together and Alone. I was not able to access their book either online or through library. **There are more of conceptual understandings, thus no applications have been found**. 
+However, Kagan mentioned the differences between his methods and Learning Together. The Johnsons postulate five conditions under which cooperative learning is productive: 
+* 1. Clearly perceived Positive Interdependence 
+* 2. Considerable promotive Face-to-Face interaction 
+* 3. Clearly perceived Individual Accountability and personal responsibility to achieve the group's goals 
+* 4. Frequent use of the relevant Interpersonal and Small-Group Skills 
+* 5. Frequent and regular Group Processing of current functioning to improve the group's future effectiveness.
 
 **Citation**: 
 * 	Kagan: https://www.kaganonline.com/free_articles/dr_spencer_kagan/275/Kagan-Structures-and-Learning-Together-What-is-the-Difference
@@ -36,10 +47,13 @@ Workman, M. (2004). Performance and perceived effectiveness in computer-based an
 
 **2.	Teams-Games Tournaments (TGT) (DeVries & Edwards, 1974)  C** 
 
-**Description**：Three key components: *teams, games, and tournaments*
-Description of the study:  The study was conducted for a six-week period and employed a simple, two-group comparison, contrasting TGT with a control treatment involving traditional instructional approaches (meaning lecturing style classrooms, but students were nominally assigned to five-member teams). Each treatment group comprised a separate language arts class, with both classes meeting during the same time period of the day. Students were assigned, on a stratified-random basis (stratifying on verbal ability), to either of the two treatment groups. Each treatment group met daily for a 50-minute period. Teacher effect was partially controlled by rotation of teachers across treatment groups every 5-7 days, resulting in equal exposure of both teachers to both treatment conditions. Pre- and post-test measures of academic achievement were obtained. Posttest measures of classroom social process and student attitudes were also administered. The average grade equivalent scores for the Vocabulary section on the Gates-MacGinitie is 4.3 (range from 1.5 to 7.1), and for the Comprehension section is 4.2 (range from 1.4 to 7.0). 
+* Ways of Interdependece: Threat. Reward
+* Type of tasks (McGraths circumplex): 
+* Group Composition: 4-5 each;  Hetero (stratified on verbal abililities); "maximal heterogeneity within each team (on such dimensions as student academic ability, sex, and race) and comparability across teams" 
+* Screenshots and other info: N/A
 
-The team component involves placing students on four or five-member teams. The teams are created to form maximal heterogeneity within each team (on such dimensions as student academic ability, sex, and race) and comparability across teams. Team membership is kept intact, and intrateam cohesion is fostered by regularly scheduled team practice sessions as well as the placing of teammates in adjacent seats.
+**Description**：Three key components: *teams, games, and tournaments*
+Description of the study:  The study was conducted for a six-week period and employed a simple, two-group comparison, contrasting TGT with a control treatment involving traditional instructional approaches (meaning lecturing style classrooms, but students were nominally assigned to five-member teams). Each treatment group comprised a separate language arts class, with both classes meeting during the same time period of the day. Students were assigned, on a stratified-random basis (stratifying on verbal ability), to either of the two treatment groups. Each treatment group met daily for a 50-minute period. Teacher effect was partially controlled by rotation of teachers across treatment groups every 5-7 days, resulting in equal exposure of both teachers to both treatment conditions. Pre- and post-test measures of academic achievement were obtained. Posttest measures of classroom social process and student attitudes were also administered.
 
 The games, component is defined by a series of instructional games. In order to win at the games, the students must acquire the concepts or skills addressed by the target curriculum unit. In most instances the participating teachers design their own games (based on a Generalized Instructional Gaming Structure, GIGS) using multiple choice, true-false, or other objective-type items.
 
@@ -49,8 +63,15 @@ The games are played in **weekly** tournaments in which each student competes wi
 
 **3.	Group Investigation (GI) (Sharan & Sharan,1976, 1992) D** 
 
+* Ways of Interdependece: Goal, Role (step 2, recorder, coordinator, resource persons nd steering committee), Resource (Step 3: students go to different locations, library, musuem, inside school, etc), 
+* Type of tasks (McGraths circumplex): 
+* Group Composition: Based on interested topics, and teacher will limit the # of students in a group or further divide into two or more groups. No word on student charactersitics. 
+
+* Screenshots and other info:
+![Image of GI](https://github.com/linyuunc/group-tasks/blob/master/GI%20Screen%20Shot%20.png)
+
 **Description:** 
-Stage 1: Identify the topic to be investigated and organizing students into research groups (There are 5 steps in stage 1.)
+* Stage 1: Identify the topic to be investigated and organizing students into research groups (There are 5 steps in stage 1.)
 
 Step1: This may take two or three class periods. The teacher presents a broad topic to the whole class, encourages diverse reactions, and expose students to different resources. 
 Step 2: The teacher asks student what they want to investigate. Each student writes their own question. 
@@ -58,11 +79,11 @@ Step 3: The teacher makes all the suggestions available to students.
 Step 4: The teacher classifies everyone’s question into several categories. 
 Step 5: The titles of the sub-topics are presented to the whole class.
 
-Stage 2: Planning the investigation in groups 
-Stage 3: Carrying out an investigation 
-Stage 4: Preparing a final report
-Stage 5: Presenting the final report
-Stage 6: Evaluation 
+* Stage 2: Planning the investigation in groups 
+* Stage 3: Carrying out an investigation 
+* Stage 4: Preparing a final report
+* Stage 5: Presenting the final report
+* Stage 6: Evaluation 
 
 * Citation:
 https://pdfs.semanticscholar.org/d4c0/e18ed10f255c56bfee16ed1c6589b680dc04.pdf
@@ -74,11 +95,6 @@ The phrase was also used interchangeble with constructive controversy in Johnson
 **Description:**
 Controversy exists when one person's ideas, information, conclusions, theories, or opinions are incompatible with those of another person, and the two seek to reach an agreement. The author introduces the concept by talking about a scene in social science class when two students get into an argument about why citizens want to be representatives in Congress. The four steps are described below and graph is included for better understanding. 
 
-1)	It begins, as does all learning, with a student categorizing and organizing his present information and experiences so that a conclusion is derived. 
-2)	When the student realizes that other students or the teacher have a different conclusion and that they challenge and contest his conclusion, a state of internal conceptual conflict, uncertainty, or disequilibrium is aroused. 
-3)	The uncertainty motivates an active search—called epistemic curiosity by Berlyne (1971)—for more information, new experiences, and a more adequate cognitive perspective and reasoning process in hopes of resolving the uncertainty. 
-4)	Out of the argumentation and debate a joint agreement is reached as to the correct conclusion. 
-
 ![Image of Constroversy](https://github.com/linyuunc/hello-world/blob/master/Picture1.png)
 
 **Citation:** 
@@ -88,28 +104,24 @@ Controversy exists when one person's ideas, information, conclusions, theories, 
 **5.	Jigsaw (Aronson, et al., 1978) D**
 **Description**
 The original jigsaw was published in his book The Jigsaw Classroom (not accessible), and below is the steps that listed on https://www.jigsaw.org/#steps
-There are ten steps: 
-* 1.	Divide students into 5- or 6-person jigsaw groups.The groups should be diverse in terms of gender, ethnicity, race, and ability. 
-* 2.	Appoint one student from each group as the leader. Initially, this person should be the most mature student in the group.
-* 3.	Divide the day’s lesson into 5-6 segments.
-For example, if you want history students to learn about Eleanor Roosevelt, you might divide a short biography of her into stand-alone segments on: (1) Her childhood, (2) Her family life with Franklin and their children, (3) Her life after Franklin contracted polio, (4) Her work in the White House as First Lady, and (5) Her life and work after Franklin's death.
-* 4.	Assign each student to learn one segment. Make sure students have direct access only to their own segment.
-* 5.	Give students time to read over their segment at least twice and become familiar with it.There is no need for them to memorize it.
-* 6.	Form temporary “expert groups” by having one student from each jigsaw group join other students assigned to the same segment.Give students in these expert groups time to discuss the main points of their segment and to rehearse the presentations they will make to their jigsaw group.
-* 7.	Bring the students back into their jigsaw groups.
-* 8.	Ask each student to present her or his segment to the group.Encourage others in the group to ask questions for clarification.
-* 9.	Teachers Float from group to group, observing the process.If any group is having trouble (e.g., a member is dominating or disruptive), make an appropriate intervention. Eventually, it's best for the group leader to handle this task. Leaders can be trained by whispering an instruction on how to intervene, until the leader gets the hang of it.
-* 10.	At the end of the session, give a quiz on the material.Students quickly come to realize that these sessions are not just fun and games but really count.
 
-**Citation**: 
-In Chen et. al paper, Moreno, 2009 was mentioned. Moreno studied student who learned about botany using an agent-based instructional program with threedifferent learning approaches: individual, jigsaw, or cooperative learning. Results showed no differences among learning approaches onretention. Students in jigsaw groups reported higher cognitive load during learning than students who learned individually; *scored lower* on a problem-solving transfer test than students in individual and cooperative learning groups; and were less likely to produce elaborated expla-nations and co-construct knowledge with their peers than students in cooperative groups. 
+ * Ways of Interdependece: Role (one leader), Resource ( asymmetry in original group, symmetry in new group), Goal
+* Type of tasks (McGraths circumplex): 
+* Group Composition: 5-6 students, The groups should be diverse in terms of gender, ethnicity, race, and ability.
+* Screenshots and other info:
 
-* https://reader.elsevier.com/reader/sd/pii/S095947520900019X?
 * The Jigsaw Basics can be retrieved: https://www.jigsaw.org/pdf/JigsawBasics.pdf
 * Another journal that talks about Jigsaw Method in the context of CSCL: http://docplayer.net/10874878-Jigsaw-method-in-the-context-of-cscl.html
+![Image of Jigsaw](https://github.com/linyuunc/group-tasks/blob/master/jigsaw%20sh.jpg)
 
 **6.	Student Teams Achievement Divisions (STAD) (Slavin, 1978) C**
 **Description:**
+* Ways of Interdependece: reward, goal 
+* Type of tasks (McGraths circumplex): 
+* Group Composition:  4- to 5-member heterogeneous, student scores are compared only with those of an ability-homogeneous reference group instead of the entire class
+* Screenshots and other info:
+![Image of STAD schedule](https://github.com/linyuunc/group-tasks/blob/master/Schedules%20for%20STAD.png)
+![Image of STAD group scoring](https://github.com/linyuunc/group-tasks/blob/master/STAD%20group%20scording.png)
 
 (STAD) uses the same 4- to 5-member heterogeneous teams used in TGT, but replaces the games and tournaments with simple, 15-minute quizzes, which students take after studying in their teams. The quiz scores are translated into team scores using a system called *achievement divisions*. The quiz scores of the highest six students in past performance are compared, and the top scorer in this group (the achievement division) earns eight points for his or her team, the second scorer earns six points, and so forth. Then the quiz scores of the next highest six students in past performance are compared, and so on. In this way, student scores are compared only with those of an ability-homogeneous reference group instead of the entire class. A "bumping" procedure changes division assignments from week to week to maintain equality. Students know only their own division assignments; they do not interact in any way with the other members of their division. The achievement division feature maintains the equality of opportunity for contributions to the team score as in TGT. 
 
@@ -119,23 +131,20 @@ In Chen et. al paper, Moreno, 2009 was mentioned. Moreno studied student who lea
 * After Quiz day: Scoring Quizzes and Assigning Points
 
 **Citation:** 
-* Slavin:https://www.jstor.org/stable/1170149?seq=1#metadata_info_tab_contents
+* Slavin:https://www.jstor.org/stable/pdf/1170149.pdf?refreqid=excelsior%3A31a28a3ca009772298c94a6f38bad9ae
 * Detailed steps:https://files.eric.ed.gov/fulltext/ED237623.pdf (p.24)
 
 **7.	Team Assisted Individualization (TAI) (Slavin, Leavey, & Madden, 1982).  C** 
+
+* Ways of Interdependece: Goal (advancement to next skillsheet), role/threat (?? students got scored by students from other teams), reward (students get certificte)
+* Type of tasks (McGraths circumplex): 
+* Group Composition:  four- to five-member teams assigned by the project staff; the team contained high, average, and low
+achievers as determined by a placement test; both boys and girls; and students of any ethnic groups in the class represented in the proportion they made up of the entire class..
+* Screenshots and other info: 
+
 **Description**
-1.	Teams. Students were assigned to four- to five-member teams by the project staff.
-2.	 Placement test. The students were pretested at the beginning of the project on mathematics operations using an experimenter-made placement test. Students were placed at the appropriate point in the individualized program based on their performance on this test.
+
 3.	Team study method (there are a to g sub areas of this step)
-
-* a. Students formed into pairs or triads within their teams. Each student located the unit that he or she was working on and brought it to the team area. Each unit consisted of an instruction sheet, several skillsheets, and answer sheets. 
-* b. Students exchanged answer sheets with partners within their teams. 
-* c. Each student read his or her instruction sheet, asking teammates or the teacher for help if necessary
-* d. After they had read the information sheet, the students began with the first skillsheet in the unit.
-* e. Each student worked the first four problems on the skillsheet and then had his or her partner check the answers against the answer sheet. If all four were correct, the student could go on to the next skillsheet. If any were wrong, the student had to try the next four problems, and so on until one block of four problems was completed correctly. 
-* f. When a student got four in a row correct on the final skillsheet, he or she could take Checkout A, a ten-item quiz that resembled the last skillsheet. A teammate then scored the checkout. If the student got eight or more correct, the teammate signed the checkout to indicate that the student was certified by the team to take the final test. If the student did not get eight correct, the teacher was called in to explain any problems the student was having. The student then took Checkout B, a second ten-item test comparable in content and difficulty to Checkout A. Otherwise, students skipped Checkout B and went straight to a final test. 
-* g. When a student "checked out," he or she took the checkout to a student monitor from a different team to get the appropriate final test. The student then took the test and the monitor scored it. Three different students served as monitors each day. 
-
 4.	Team scores and team recognition 
 5.	Teacher review sessions.
 
