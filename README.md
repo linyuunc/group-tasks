@@ -140,20 +140,27 @@ The original jigsaw was published in his book The Jigsaw Classroom (not accessib
 * Type of tasks (McGraths circumplex): 
 * Group Composition:  four- to five-member teams assigned by the project staff; the team contained high, average, and low
 achievers as determined by a placement test; both boys and girls; and students of any ethnic groups in the class represented in the proportion they made up of the entire class..
-* Screenshots and other info: 
+* Screenshots and other info: N/A
 
 **Description**
-
-3.	Team study method (there are a to g sub areas of this step)
-4.	Team scores and team recognition 
-5.	Teacher review sessions.
+1. Teams
+2.	Team study method (there are a to g sub areas of this step)
+3.	Team scores and team recognition 
+4.	Teacher review sessions.
 
 **Citation**: 
-* https://journals.sagepub.com/doi/pdf/10.1177/001440298405000506?
+* https://journals.sagepub.com/doi/pdf/10.1177/001440298405000506? (An application of TAI)
 
 
 **8.	Cooperative Integrated Reading and Composition (CIRC) (Stevens, Madden, Slavin, & Farnish, 1987),C**
 
+The following categories will be used to categorize the following Cooperative learning methods. 
+* Ways of Interdependece: Role (Students hold each other accountable in each step)
+* Type of tasks (McGraths circumplex): 
+* Group Composition: 
+Students are assigned to 2-3 reading groups (8-15 students per group) according to their reading levels. students were then assigned into dyads or triads. Each team has 2 from Top reading groups, and 2 from low. 
+* Screenshots and other info:
+![Image of CIRC](https://github.com/linyuunc/group-tasks/blob/master/CIRC%20.jpg)
 **Description:** 
 The CIRC program includes three principal elements: basal-related activities, direct instruction in reading comprehension, and integrated language arts/writing 
 The sequence of the activities are as follows: 
@@ -169,18 +176,12 @@ Integrated language arts and writing; involvement of special ed resource teacher
 **Citation**: 
 * Steps of Circ: 
 https://pdfs.semanticscholar.org/d1bd/09a777f04d6f0b1007ccdadf9e695e4326a0.pdf
+https://www.jstor.org/stable/pdf/747701.pdf?refreqid=excelsior%3A2b036fffd7d082598c3913b3334c99f0 (A validation study)
+* Graph Retrieved from https://www.eduhk.hk/apfslt/v19_issue1/osman/page3.htm 
 
 * What works Clearinghouse: 
 https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_circ_062612.pdf
 
-**Miscellaneous Citations**: 
-
-
-* An article differentiating cooperative learning, collaborative learning and Problem-based solving
-https://www.lhthompson.com/uploads/4/2/1/1/42117203/comparing_three_types_of_group_work.pdf
-
-* A Brief View of Cooperative Learning1 from Across the Pond, Around the World, and Over Time by Lynda Baloche 
-https://thenews.coop/wp-content/uploads/S4-Baloche-133.pdf
 
 ## Below are from Chapter 4 Collaborative Problem- Solving Tasks
 The authors talked about content-free tasks and content-dependent tasks in the paper, with two examples each, and then listed 8 examples in the appendix. 
@@ -254,8 +255,29 @@ This is simiar to "predict-observe-explain" method used to overcome scientific m
 * Citation:https://hal.archives-ouvertes.fr/hal-00692019/document**
 They encounter two types of roles in CSCL scripts, ‘induced’ roles and ‘natural’ roles. Induced roles are roles proposed by the script with a low or high degree of coercion. Natural roles refer to the exploitation of differences that exist between students before entering the script. Roles can be induced by restricting access to specific resources 1)documents 2)tools or by defining specific 3)responsibilities related to student authentication in the system. 
 
+###Updated 10.6 
+
+Putting yourself in someone else's shoes: The impact of a location-based, collaborative role-playing game on behaviour.A LOT of discussions about roles (NEED TO REVISIT)
+* Citation: https://reader.elsevier.com/reader/sd/pii/S0360131515000640?token=233323CEEEDF57ECCC6CBBC859F58606F50216CBEABF412FC6DEBF0A6B4BAF295BFA1867EDED660AF7241899833F0522 
+
+* Page 3 of this (Something similar to this)
+http://www.accessola.com/osla/toolkit/Resources/Think%20Literacy%20-%20Group%20Roles.pdf
+* Literature Circles (I found it! I did that when I was a student)
+https://en.wikipedia.org/wiki/Literature_circle
 
 **Scripts** 
+### Updated 10.6.19 NEED TO VISIT THE FOLLOWING STUDIES
+The Following Studies found are from the following article: 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5613807/pdf/10.3102_0034654317704307.pdf
+
+Based on the second possible reason, more technology-based assistance may be needed to help teachers easily and efficiently build their scripts for task structure (e.g., Miller & Hadwin, 2015; Vogel et al., 2016; Weinberger, Stegmann, & Fischer, 2010) and to help bolster participants’ awareness of the cooperative process and products during their interaction with peers (e.g., Janssen, Erkens, Kirschner, & Kanselaar, 2010; Winne, Hadwin, & Gress, 2010). 
+
+Miller, M., & Hadwin, A. (2015). Scripting and awareness tools for regulating collab- orative learning: Changing the landscape of support in CSCL. Computers in Human Behavior, 52, 573–588. doi:10.1016/j.chb.2015.01.050
+
+Pérez-Sanagustín, M., Santos, P., Hernández-Leo, D., & Blat, J. (2012). 4SPPIces: A case study of factors in a scripted collaborative-learning blended course across spa- tial locations. International Journal of Computer-Supported Collaborative Learning, 7, 443–465. doi:10.1007/s11412-011-9139-3
+
+Effects of Mobile-Computer-Supported Collaborative Learning
+attention to how to provide sufficient logistics, such as the variability of learning scenarios, and software for enhancing teachers’ ability to arrange group learning scripts; how to monitor and encourage students’ interaction and proper workflow; and teachers’ professional development for their leadership roles for more pro- ductive outcomes in CSCL (Resta & Laferrière, 2007).
 
 **1.	Noroozi, Biemans, Weinberger, Mulder, and Chizari (2013) found that collaboration scripts greatly fostered learners’ skills, group task performance, and social interactions.**
 
@@ -273,6 +295,7 @@ It uses Jigsaw as an example. The Design rational of the script is the complemen
 
 **The ArgueGraph Script**
 It is based on a simple multiple-choice questionnaire produced by the teacher. It integrates face-to-face and online activities. 
+"where a teacher designs a multiple choice question, with each student selecting an answer. The spread of answers is displayed for all to see and the teacher uses the range of answers to guide a classroom discussion" (From CHLS Chapter 25 Mobile Learning).
 
 **The UniverSante Script**
 It was used in medical education, more precisely in teaching community health. It integrates face-to-face and online activities. 
