@@ -255,7 +255,7 @@ This is simiar to "predict-observe-explain" method used to overcome scientific m
 * Citation:https://hal.archives-ouvertes.fr/hal-00692019/document**
 They encounter two types of roles in CSCL scripts, ‘induced’ roles and ‘natural’ roles. Induced roles are roles proposed by the script with a low or high degree of coercion. Natural roles refer to the exploitation of differences that exist between students before entering the script. Roles can be induced by restricting access to specific resources 1)documents 2)tools or by defining specific 3)responsibilities related to student authentication in the system. 
 
-###Updated 10.6 
+### Updated 10.6 
 
 Putting yourself in someone else's shoes: The impact of a location-based, collaborative role-playing game on behaviour.A LOT of discussions about roles (NEED TO REVISIT)
 * Citation: https://reader.elsevier.com/reader/sd/pii/S0360131515000640?token=233323CEEEDF57ECCC6CBBC859F58606F50216CBEABF412FC6DEBF0A6B4BAF295BFA1867EDED660AF7241899833F0522 
@@ -264,6 +264,13 @@ Putting yourself in someone else's shoes: The impact of a location-based, collab
 http://www.accessola.com/osla/toolkit/Resources/Think%20Literacy%20-%20Group%20Roles.pdf
 * Literature Circles (I found it! I did that when I was a student)
 https://en.wikipedia.org/wiki/Literature_circle
+
+Hine,!N.,!R.!Rentoul!and!M.!Specht!(2004).!Collaboration!and!roles!in!remote!field!trips.!mLearn2003:!
+Learning!with!Mobile!Devices.!Research!and!Development,!London. 
+
+Ternier et al. (2012), the game simulation offers an
+alternative training solution that could replace aspects of role-playing in the more
+traditional face-to-face workshops dealing with security training. 
 
 **Scripts** 
 ### Updated 10.6.19 NEED TO VISIT THE FOLLOWING STUDIES
