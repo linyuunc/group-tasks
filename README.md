@@ -1,7 +1,7 @@
 # GROUP TASKS 
 This includes a list of group tasks that are used in cooperative learning, peer tutoring and computer-supported collaborative learning
 ## POSITIVE INTERDEPENDENCE 
-INCLUDES positive goal, reward-celebrate, resource, role, task (the next one depends on the previous one), identity, threat (when groups are plced in competition);fantasy interdependence. 
+INCLUDES positive goal, reward-celebrate, resource, role, task (the next one depends on the previous one), identity, threat (when groups are placed in competition);fantasy interdependence. 
 
 The grouping is retrieved from: 
 http://digsys.upc.es/ed/general/Gasteiz/docs_ac/Johnson_Overview_of_Cooperative_Learning.pdf 2002 
@@ -48,7 +48,7 @@ Workman, M. (2004). Performance and perceived effectiveness in computer-based an
 **2.	Teams-Games Tournaments (TGT) (DeVries & Edwards, 1974)  C** 
 
 * Ways of Interdependece: Threat. Reward
-* Type of tasks (McGraths circumplex): 
+* Type of tasks (McGraths circumplex): Type 3 Intellective Tasks (Problems have a clearly demonstratable right answer. )
 * Group Composition: 4-5 each;  Hetero (stratified on verbal abililities); "maximal heterogeneity within each team (on such dimensions as student academic ability, sex, and race) and comparability across teams" 
 * Screenshots and other info: N/A
 
@@ -64,7 +64,7 @@ The games are played in **weekly** tournaments in which each student competes wi
 **3.	Group Investigation (GI) (Sharan & Sharan,1976, 1992) D** 
 
 * Ways of Interdependece: Goal, Role (step 2, recorder, coordinator, resource persons nd steering committee), Resource (Step 3: students go to different locations, library, musuem, inside school, etc), 
-* Type of tasks (McGraths circumplex): 
+* Type of tasks (McGraths circumplex): Type 1: Generating plans 
 * Group Composition: Based on interested topics, and teacher will limit the # of students in a group or further divide into two or more groups. No word on student charactersitics. 
 
 * Screenshots and other info:
@@ -91,6 +91,12 @@ https://pdfs.semanticscholar.org/d4c0/e18ed10f255c56bfee16ed1c6589b680dc04.pdf
 **4.	Academic Controversy (Johnson & Johnson, 1979),  D** 
 
 The phrase was also used interchangeble with constructive controversy in Johnson and Johnson article. 
+* Ways of Interdependece: Identity as they share the same ideas
+* Type of tasks (McGraths circumplex): Type 5 Cognitive Conflict tasks (It's not Type 6 mixed-motive task because students do not have conflicting interests) and Type 4 Decision making tasks w/No Right answer. 
+* Group Composition: It does not specify group size, but did mention "small group". Heterogeniety. The differences among students in terms of personality, sex, attitudes, background, social
+class, cognitive reasoning strategies, cognitive perspectives, information, and skills. 
+of present information and experiences. 
+* Screenshots and other info:
 
 **Description:**
 Controversy exists when one person's ideas, information, conclusions, theories, or opinions are incompatible with those of another person, and the two seek to reach an agreement. The author introduces the concept by talking about a scene in social science class when two students get into an argument about why citizens want to be representatives in Congress. The four steps are described below and graph is included for better understanding. 
@@ -117,7 +123,7 @@ The original jigsaw was published in his book The Jigsaw Classroom (not accessib
 **6.	Student Teams Achievement Divisions (STAD) (Slavin, 1978) C**
 **Description:**
 * Ways of Interdependece: reward, goal 
-* Type of tasks (McGraths circumplex): 
+* Type of tasks (McGraths circumplex): Mostly type 3 Intellective tasks
 * Group Composition:  4- to 5-member heterogeneous, student scores are compared only with those of an ability-homogeneous reference group instead of the entire class
 * Screenshots and other info:
 ![Image of STAD schedule](https://github.com/linyuunc/group-tasks/blob/master/Schedules%20for%20STAD.png)
@@ -137,7 +143,7 @@ The original jigsaw was published in his book The Jigsaw Classroom (not accessib
 **7.	Team Assisted Individualization (TAI) (Slavin, Leavey, & Madden, 1982).  C** 
 
 * Ways of Interdependece: Goal (advancement to next skillsheet), role/threat (?? students got scored by students from other teams), reward (students get certificte)
-* Type of tasks (McGraths circumplex): 
+* Type of tasks (McGraths circumplex): Type 3 Intellective tasks
 * Group Composition:  four- to five-member teams assigned by the project staff; the team contained high, average, and low
 achievers as determined by a placement test; both boys and girls; and students of any ethnic groups in the class represented in the proportion they made up of the entire class..
 * Screenshots and other info: N/A
@@ -156,7 +162,7 @@ achievers as determined by a placement test; both boys and girls; and students o
 
 The following categories will be used to categorize the following Cooperative learning methods. 
 * Ways of Interdependece: Role (Students hold each other accountable in each step)
-* Type of tasks (McGraths circumplex): 
+* Type of tasks (McGraths circumplex): Type 8 Performances tasks (It is against standards of excellence or sufficiency that are not tied to competition against an opponent. ) 
 * Group Composition: 
 Students are assigned to 2-3 reading groups (8-15 students per group) according to their reading levels. students were then assigned into dyads or triads. Each team has 2 from Top reading groups, and 2 from low. 
 * Screenshots and other info:
