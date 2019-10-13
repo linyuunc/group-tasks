@@ -4,30 +4,25 @@ This includes a list of group tasks that are used in cooperative learning, peer 
 INCLUDES positive goal, reward-celebrate, resource, role, task (the next one depends on the previous one), identity, threat (when groups are placed in competition);fantasy interdependence. 
 
 The grouping is retrieved from: 
-http://digsys.upc.es/ed/general/Gasteiz/docs_ac/Johnson_Overview_of_Cooperative_Learning.pdf 2002 
+http://digsys.upc.es/ed/general/Gasteiz/docs_ac/Johnson_Overview_of_Cooperative_Learning.pdf 
  
 The following categories will be used to categorize the following Cooperative learning methods. 
-* Ways of Interdependece: 
+##
+* Ways of Interdependece:
 * Type of tasks (McGraths circumplex): 
 * Group Composition: 
 * Screenshots and other info:
 
 # PH Edits
 For each task or task component / stage, consider
-
 * The different ways of inducing positive interdependence (roles, goals, rewards, as/symmetrical information, or other task structures, or something else, or nothing?)
-
 * What type of task it is (McGraths circumplex)
-
 * Any considerations about group composition (size, homo/heterogeneous traits, which traits, etc)
-
 * Please also describe each task in sufficient detail (bullets not paragraphs) that the reader could plan how to do the task. 
-
 * include screen shots where relevant
-# Updated 10/06/19 (Will add on types of tasks later) 
+# Updated 10/13/19 (Will add on types of tasks later) 
 
 ## The following eight cooperative learning methods were discussed in Johnson and Johnson (2000). 
-
   
 **1.Learning Together (LT) (Johnson & Johnson,1975/1999) 
 
@@ -47,38 +42,28 @@ Workman, M. (2004). Performance and perceived effectiveness in computer-based an
 
 **2.	Teams-Games Tournaments (TGT) (DeVries & Edwards, 1974)  C** 
 
-* Ways of Interdependece: Threat. Reward
-* Type of tasks (McGraths circumplex): Type 3 Intellective Tasks (Problems have a clearly demonstratable right answer. )
-* Group Composition: 4-5 each;  Hetero (stratified on verbal abililities); "maximal heterogeneity within each team (on such dimensions as student academic ability, sex, and race) and comparability across teams" 
+* Ways of Interdependece: **Threat. Reward**
+* Type of tasks (McGraths circumplex): **Type 3 Intellective Tasks** (Problems have a clearly demonstratable right answer. )
+* Group Composition: **4-5 each;  Hetero (stratified on verbal abililities)**; "maximal heterogeneity within each team (on such dimensions as student academic ability, sex, and race) and comparability across teams" 
 * Screenshots and other info: N/A
 
 **Description**：Three key components: *teams, games, and tournaments*
-Description of the study:  The study was conducted for a six-week period and employed a simple, two-group comparison, contrasting TGT with a control treatment involving traditional instructional approaches (meaning lecturing style classrooms, but students were nominally assigned to five-member teams). Each treatment group comprised a separate language arts class, with both classes meeting during the same time period of the day. Students were assigned, on a stratified-random basis (stratifying on verbal ability), to either of the two treatment groups. Each treatment group met daily for a 50-minute period. Teacher effect was partially controlled by rotation of teachers across treatment groups every 5-7 days, resulting in equal exposure of both teachers to both treatment conditions. Pre- and post-test measures of academic achievement were obtained. Posttest measures of classroom social process and student attitudes were also administered.
-
-The games, component is defined by a series of instructional games. In order to win at the games, the students must acquire the concepts or skills addressed by the target curriculum unit. In most instances the participating teachers design their own games (based on a Generalized Instructional Gaming Structure, GIGS) using multiple choice, true-false, or other objective-type items.
-
+Description of the study:  The study was conducted for a six-week period and employed a simple, two-group comparison, contrasting TGT with a control treatment involving traditional instructional approaches (meaning lecturing style classrooms, but students were nominally assigned to five-member teams). Each treatment group comprised a separate language arts class, with both classes meeting during the same time period of the day. Students were assigned, on a stratified-random basis (stratifying on verbal ability), to either of the two treatment groups. Each treatment group met daily for a 50-minute period. Teacher effect was partially controlled by rotation of teachers across treatment groups every 5-7 days, resulting in equal exposure of both teachers to both treatment conditions.
 The games are played in **weekly** tournaments in which each student competes with two other students of comparable ability representing other teams. At the end of each tournament session (typically lasting from 30 to 45 minutes) a "top scorer," "middle scorer," and "low scorer" is declared at each three-person game table. The individual student's game scores are converted to team scores and winning teams are declared. Classroom newsletters (distributed weekly) provide public feedback and reinforcement for both team and individual scores after each tournament.
 
 * Citation: https://files.eric.ed.gov/fulltext/ED110885.pdf** 
 
 **3.	Group Investigation (GI) (Sharan & Sharan,1976, 1992) D** 
 
-* Ways of Interdependece: Goal, Role (step 2, recorder, coordinator, resource persons nd steering committee), Resource (Step 3: students go to different locations, library, musuem, inside school, etc), 
-* Type of tasks (McGraths circumplex): Type 1: Generating plans 
-* Group Composition: Based on interested topics, and teacher will limit the # of students in a group or further divide into two or more groups. No word on student charactersitics. 
-
+* Ways of Interdependece: **Goal, Role** (step 2, recorder, coordinator, resource persons nd steering committee), Resource (Step 3: students go to different locations, library, musuem, inside school, etc), 
+* Type of tasks (McGraths circumplex): **Type 1: Generating plans**
+* Group Composition: **Based on interested topics, and teacher will limit the # of students in a group or further divide into two or more groups. No word on student charactersitics**. 
 * Screenshots and other info:
 ![Image of GI](https://github.com/linyuunc/group-tasks/blob/master/GI%20Screen%20Shot%20.png)
 
 **Description:** 
 * Stage 1: Identify the topic to be investigated and organizing students into research groups (There are 5 steps in stage 1.)
-
-Step1: This may take two or three class periods. The teacher presents a broad topic to the whole class, encourages diverse reactions, and expose students to different resources. 
-Step 2: The teacher asks student what they want to investigate. Each student writes their own question. 
-Step 3: The teacher makes all the suggestions available to students.
-Step 4: The teacher classifies everyone’s question into several categories. 
-Step 5: The titles of the sub-topics are presented to the whole class.
-
+namely the teacher helps students find research interests and form research groups. 
 * Stage 2: Planning the investigation in groups 
 * Stage 3: Carrying out an investigation 
 * Stage 4: Preparing a final report
@@ -91,17 +76,14 @@ https://pdfs.semanticscholar.org/d4c0/e18ed10f255c56bfee16ed1c6589b680dc04.pdf
 **4.	Academic Controversy (Johnson & Johnson, 1979),  D** 
 
 The phrase was also used interchangeble with constructive controversy in Johnson and Johnson article. 
-* Ways of Interdependece: Identity as they share the same ideas
-* Type of tasks (McGraths circumplex): Type 5 Cognitive Conflict tasks (It's not Type 6 mixed-motive task because students do not have conflicting interests) and Type 4 Decision making tasks w/No Right answer. 
-* Group Composition: It does not specify group size, but did mention "small group". Heterogeniety. The differences among students in terms of personality, sex, attitudes, background, social
-class, cognitive reasoning strategies, cognitive perspectives, information, and skills. 
-of present information and experiences. 
+* Ways of Interdependece: **Identity** as they share the same ideas
+* Type of tasks (McGraths circumplex): **Type 5 Cognitive Conflict tasks** (It's not Type 6 mixed-motive task because students do not have conflicting interests) and Type 4 Decision making tasks w/No Right answer. 
+* Group Composition: It does not specify group size, but did mention **"small group". Heterogeniety**. The differences among students in terms of personality, sex, attitudes, background, social class, cognitive reasoning strategies, cognitive perspectives, information, and skills. 
 * Screenshots and other info:
 
+![Image of Constroversy](https://github.com/linyuunc/hello-world/blob/master/Picture1.png)
 **Description:**
 Controversy exists when one person's ideas, information, conclusions, theories, or opinions are incompatible with those of another person, and the two seek to reach an agreement. The author introduces the concept by talking about a scene in social science class when two students get into an argument about why citizens want to be representatives in Congress. The four steps are described below and graph is included for better understanding. 
-
-![Image of Constroversy](https://github.com/linyuunc/hello-world/blob/master/Picture1.png)
 
 **Citation:** 
 * https://journals.sagepub.com/doi/pdf/10.3102/00346543049001051?
@@ -111,25 +93,24 @@ Controversy exists when one person's ideas, information, conclusions, theories, 
 **Description**
 The original jigsaw was published in his book The Jigsaw Classroom (not accessible), and below is the steps that listed on https://www.jigsaw.org/#steps
 
- * Ways of Interdependece: Role (one leader), Resource ( asymmetry in original group, symmetry in new group), Goal
-* Type of tasks (McGraths circumplex): 
+ * Ways of Interdependece: **Role (one leader), Resource ( asymmetry in original group, symmetry in new group), Goal**
+* Type of tasks (McGraths circumplex): **Typically type 3 Intellective tasks**
 * Group Composition: 5-6 students, The groups should be diverse in terms of gender, ethnicity, race, and ability.
 * Screenshots and other info:
-
+![Image of Jigsaw](https://github.com/linyuunc/group-tasks/blob/master/jigsaw%20sh.jpg)
 * The Jigsaw Basics can be retrieved: https://www.jigsaw.org/pdf/JigsawBasics.pdf
 * Another journal that talks about Jigsaw Method in the context of CSCL: http://docplayer.net/10874878-Jigsaw-method-in-the-context-of-cscl.html
-![Image of Jigsaw](https://github.com/linyuunc/group-tasks/blob/master/jigsaw%20sh.jpg)
 
 **6.	Student Teams Achievement Divisions (STAD) (Slavin, 1978) C**
 **Description:**
-* Ways of Interdependece: reward, goal 
-* Type of tasks (McGraths circumplex): Mostly type 3 Intellective tasks
-* Group Composition:  4- to 5-member heterogeneous, student scores are compared only with those of an ability-homogeneous reference group instead of the entire class
+* Ways of Interdependece: **reward, goal**
+* Type of tasks (McGraths circumplex): **Mostly type 3 Intellective tasks**
+* Group Composition:  **4- to 5-member heterogeneous**, student scores are compared only with those of an ability-homogeneous reference group instead of the entire class
 * Screenshots and other info:
 ![Image of STAD schedule](https://github.com/linyuunc/group-tasks/blob/master/Schedules%20for%20STAD.png)
 ![Image of STAD group scoring](https://github.com/linyuunc/group-tasks/blob/master/STAD%20group%20scording.png)
 
-(STAD) uses the same 4- to 5-member heterogeneous teams used in TGT, but replaces the games and tournaments with simple, 15-minute quizzes, which students take after studying in their teams. The quiz scores are translated into team scores using a system called *achievement divisions*. The quiz scores of the highest six students in past performance are compared, and the top scorer in this group (the achievement division) earns eight points for his or her team, the second scorer earns six points, and so forth. Then the quiz scores of the next highest six students in past performance are compared, and so on. In this way, student scores are compared only with those of an ability-homogeneous reference group instead of the entire class. A "bumping" procedure changes division assignments from week to week to maintain equality. Students know only their own division assignments; they do not interact in any way with the other members of their division. The achievement division feature maintains the equality of opportunity for contributions to the team score as in TGT. 
+(STAD) uses the same 4- to 5-member heterogeneous teams used in TGT, but replaces the games and tournaments with simple, 15-minute quizzes, which students take after studying in their teams. The quiz scores are translated into team scores using a system called *achievement divisions*. The quiz scores of the highest six students in past performance are compared, and the top scorer in this group (the achievement division) earns eight points for his or her team, the second scorer earns six points, and so forth. Then the quiz scores of the next highest six students in past performance are compared, and so on. In this way, student scores are compared only with those of an ability-homogeneous reference group instead of the entire class.
 
 * Step 1: First Lesson 
 * Step 2: Introducing team assignments and team practice(1. Introduce Teams; 2. Inform Students of their team assignment; 3. Introduce Team Practice)
@@ -140,11 +121,11 @@ The original jigsaw was published in his book The Jigsaw Classroom (not accessib
 * Slavin:https://www.jstor.org/stable/pdf/1170149.pdf?refreqid=excelsior%3A31a28a3ca009772298c94a6f38bad9ae
 * Detailed steps:https://files.eric.ed.gov/fulltext/ED237623.pdf (p.24)
 
-**7.	Team Assisted Individualization (TAI) (Slavin, Leavey, & Madden, 1982).  C** 
+**7.	Team Assisted Individualization (TAI) (Slavin, Leavey, & Madden, 1982).  
 
-* Ways of Interdependece: Goal (advancement to next skillsheet), role/threat (?? students got scored by students from other teams), reward (students get certificte)
-* Type of tasks (McGraths circumplex): Type 3 Intellective tasks
-* Group Composition:  four- to five-member teams assigned by the project staff; the team contained high, average, and low
+* Ways of Interdependece: **Goal (advancement to next skillsheet), role/threat** (?? students got scored by students from other teams), reward (students get certificte)
+* Type of tasks (McGraths circumplex): **Type 3 Intellective tasks**
+* Group Composition:  **four- to five-member teams assigned by the project staff**; the team contained high, average, and low
 achievers as determined by a placement test; both boys and girls; and students of any ethnic groups in the class represented in the proportion they made up of the entire class..
 * Screenshots and other info: N/A
 
@@ -161,10 +142,9 @@ achievers as determined by a placement test; both boys and girls; and students o
 **8.	Cooperative Integrated Reading and Composition (CIRC) (Stevens, Madden, Slavin, & Farnish, 1987),C**
 
 The following categories will be used to categorize the following Cooperative learning methods. 
-* Ways of Interdependece: Role (Students hold each other accountable in each step)
-* Type of tasks (McGraths circumplex): Type 8 Performances tasks (It is against standards of excellence or sufficiency that are not tied to competition against an opponent. ) 
-* Group Composition: 
-Students are assigned to 2-3 reading groups (8-15 students per group) according to their reading levels. students were then assigned into dyads or triads. Each team has 2 from Top reading groups, and 2 from low. 
+* Ways of Interdependece: **Role** (Students hold each other accountable in each step)
+* Type of tasks (McGraths circumplex): **Type 8 Performances tasks** (It is against standards of excellence or sufficiency that are not tied to competition against an opponent. ) 
+* Group Composition: Students are assigned to **2-3 reading groups (8-15 students per group)** according to their reading levels. students were then assigned into dyads or triads. Each team has 2 from Top reading groups, and 2 from low. 
 * Screenshots and other info:
 ![Image of CIRC](https://github.com/linyuunc/group-tasks/blob/master/CIRC%20.jpg)
 **Description:** 
@@ -184,7 +164,6 @@ Integrated language arts and writing; involvement of special ed resource teacher
 https://pdfs.semanticscholar.org/d1bd/09a777f04d6f0b1007ccdadf9e695e4326a0.pdf
 https://www.jstor.org/stable/pdf/747701.pdf?refreqid=excelsior%3A2b036fffd7d082598c3913b3334c99f0 (A validation study)
 * Graph Retrieved from https://www.eduhk.hk/apfslt/v19_issue1/osman/page3.htm 
-
 * What works Clearinghouse: 
 https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_circ_062612.pdf
 
@@ -195,45 +174,104 @@ The authors talked about content-free tasks and content-dependent tasks in the p
 Content-free tasks 
 
 **1.	Laughing Clowns (structured symmetrically)** 
-Where two students have 12 balls altogether at their disposal. Each of them needs to put six balls into their clown machines to see if their machines work the same way.  
+Where two students have 12 balls altogether at their disposal. Each of them needs to put six balls into their clown machines to see if their machines work the same way.
+* Ways of Interdependece: **task** 
+* Type of tasks (McGraths circumplex): **Type 1: planning task and Type 8: performance task against noncompetitive standards  
+* Group Composition: **Two students. No mentioning on homo or hetereo**
+* Screenshots and other info:
+![Laughing Clown](https://github.com/linyuunc/group-tasks/blob/master/laughing%20clown%20.png)
 
 **2.	Olive Oil Task (structured asymmetrically)**
 The goal of this game is to fill in student B’s jar with 4 liter of olive oil. Student B has no Olive oil dispenser, thus B has to wait for student A to make some arrangement. This requires the solver to work out a sequence of movements to achieve the goal.
+* Ways of Interdependece: **resource and task (there's sequence in doing tasks)**
+* Type of tasks (McGraths circumplex): **Type 8: performance task against noncompetitive standards**  
+* Group Composition: **two people
+* Screenshots and other info:
+![Olive Oil](https://github.com/linyuunc/group-tasks/blob/master/olive%20oil.png)
 
 Content-dependent tasks 
 
 **3.	Balance Beam Task (related to physics)**
 Where two students need to place different masses on the beam. To reach balance on the beam, two students need to coordinate on the mass and position (marked with numbers1,2,3,4)
+* Ways of Interdependece: **Goal and task(sequence)**
+* Type of tasks (McGraths circumplex): **Type 1: Planning tasks and Type 3: Intellective tasks** 
+* Group Composition: **two people**
+* Screenshots and other info:
+![Balance beam](https://github.com/linyuunc/group-tasks/blob/master/balance%20beam.png)
 
 **4.	Game of 20 Task(related to algebra)**
 It involves students working together against the computer to reach a value of 20 by placing counters sequentially on a grid. The students need to identify crucial scores and limits in order to win the game. 
-In order to play the game, students independently choose a number between zero and four which contributes to the combined team number from one to five (that is, the two student values are combined to create their team number). Each student needs to consider the input of their partner when selecting a number, as well as considering which number the computer will select. There are several rounds of number selection until the game total reaches 20. If either team (students or com- puter) enters an amount that exceeds the game total of 20, then that team loses. The aim of the game is for the student team to reach the exact game total of 20 before the computer does. 
+* Ways of Interdependece:**goal and task**
+* Type of tasks (McGraths circumplex): **Type 1: Planning tasks and Type 3: Intellective tasks**
+* Group Composition: **two people
+* Screenshots and other info:
+![Game of 20 task](https://github.com/linyuunc/group-tasks/blob/master/game%20of%2020%20task.png)
 
 **Eight games that are listed in Appendix. I’ve included whether they are content-free or content-dependent, and whether it is structured symmetrically or asymmetrically.**
 
 **5.	Hexagons:** I couldn’t see the directions well. I assume it is using number triangle to make a Hexagon.
 * Content-dependent (Math??), symmetrically
+* Ways of Interdependece:**goal**
+* Type of tasks (McGraths circumplex): **Type 1: Planning tasks and Type 3: Intellective tasks**
+* Group Composition: **two people
+* Screenshots and other info:
+![Hexagon](https://github.com/linyuunc/group-tasks/blob/master/hexagon%20.png)
 
 **6.	Hot Chocolate:** the goal of this task is to select the recipe which makes the biggest profit in Europe. (using chocolate, milk and sugar). And try to solve the problem in the fewer steps possible.
 * Content-free, asymmetrically
+* Ways of Interdependece:**resource and goal**
+* Type of tasks (McGraths circumplex): **Type 1: planning task**
+* Group Composition: **two people
+* Screenshots and other info:
+![Hot chocolate](https://github.com/linyuunc/group-tasks/blob/master/hot%20choclate.png)
 
 **7.	Plant Growth:** in which two students are studying how light and warmth affect plant growth. The plants have everything else that they need to grow, and students will control lighting and temperature to see their effect on the plants. 
 * Content-dependent (Science), symmetrically
+* Ways of Interdependece:**goal**
+* Type of tasks (McGraths circumplex): **Type 3: intellective task or type 4: decision-making tasks** (Is there a correct answer for this question)
+* Group Composition: **two people 
+* Screenshots and other info:
+![Plant Growth](https://github.com/linyuunc/group-tasks/blob/master/plant%20growth.png)
 
 **8.	 Small Pyramids:** one student’s number pyramid is connected to partner’s pyramid. Type a number 1-9 into the RED box and find out how the black number changes.
 * Content-free, asymmetry
+* Ways of Interdependece:**goal**
+* Type of tasks (McGraths circumplex): **Type 2: Generating ideas and Type 5:Resolving conflicts of viewpoint**
+* Group Composition: **two people
+* Screenshots and other info:
+![small pyramid](https://github.com/linyuunc/group-tasks/blob/master/small%20pyramid.png)
 
 **9.	Shared Garden:** Student and his/her partner need to place one plant each in the shared garden to bring its plants back to life. You can test pairs of plants in the practice garden as often as you like, but students can only move a plant to shared garden once. (Students have different plants)**
 * Content-free (maybe have something to do with Science, hard to tell), asymmetry
+* Ways of Interdependece: **Goal and task, and a little bit fantasy?**
+* Type of tasks (McGraths circumplex): **Type 1: planning tasks and Type 4: Decision-making tasks**
+* Group Composition: **two people
+* Screenshots and other info:
+![Shared Garden](https://github.com/linyuunc/group-tasks/blob/master/shared%20garden.png)
 
 **10.	Sunflower:** can you grow the worlds’ tallest sunflower? You and partner have different types of plant food A and B. How many drops of each should you use? 
 * Content-free, asymmetry
+* Ways of Interdependece: **resource and goal**
+* Type of tasks (McGraths circumplex): **Type 3: intellective task or type 4: decision-making tasks** (Is there a correct answer for this question?)
+* Group Composition: **two people
+* Screenshots and other info:
+![Image of Sunflower](https://github.com/linyuunc/group-tasks/blob/master/sunflower.png)
 
 **11.	Warehouse.** Students need to use cameras to guard six boxes in a warehouse. The boxes are tall so they blocks the views.  Students need to figure out the positioning of five cameras to ensure that they guard the full warehouse. 
 * Content-free, asymmetry
+* Ways of Interdependece: **Goal and Fantasy**
+* Type of tasks (McGraths circumplex): **Type4: Decision-making tasks**
+* Group Composition: **two people
+* Screenshots and other info:
+![Image of Warehouse](https://github.com/linyuunc/group-tasks/blob/master/warehouse.png)
 
 **12.	Light box.** The laser and target have been moved and there’s a mirror hidden in the box. Where must the mirror be?  Partners have exactly the same question.
 * Content-dependent(Physics), symmetry
+* Ways of Interdependece:**goal**
+* Type of tasks (McGraths circumplex): **Type 3: intellective task or type 4: decision-making tasks** (Is there a correct answer for this question)
+* Group Composition: **two people
+* Screenshots and other info:
+![Image of Light box](https://github.com/linyuunc/group-tasks/blob/master/lightbox.png)
 
 ## Other Collaborative Learning Environment (Updated 10.01.19) More details needed
 
@@ -250,9 +288,9 @@ This is simiar to "predict-observe-explain" method used to overcome scientific m
 
 * The Knowledge Constructive Jigsaw  (lesson con- sists of a set of strategic procedures for discussion and a “problem,” an experiment whose answer is predicted and discussed by the students. An HEI unit consists of multiple such problems, carefully ordered to guide the devel- opment of scientiic concepts underlying the problem set. Each student in an HEI class is expected to integrate the results of the experiments in her/his own way to formulate a hypothesis. These differing hypotheses then are used to facilitate whole classroom discussion (Hatano & Inagaki, 1986).
 
-## Below are from Chen et al’s website: 
+## Below are from Chen et al’s website: Updated 10.13
 
-**Role assignment** 
+**Role assignment**
 
 * In Chen et al (2012)
  This is a strategy of structuring collaborative activities in group learning (Morris et al., 2010; Strijbos et al., 2004). According to Hare (1994), roles can be defined as stated or prescribed responsibilities or duties guiding individual behavior and regulating collaboration. Each designated role may assume a type of task completion function, such as *data collector, data analyzer, leader, or coordinator, generally assigned by the researcher or instructor*.
@@ -261,15 +299,23 @@ This is simiar to "predict-observe-explain" method used to overcome scientific m
 * Citation:https://hal.archives-ouvertes.fr/hal-00692019/document**
 They encounter two types of roles in CSCL scripts, ‘induced’ roles and ‘natural’ roles. Induced roles are roles proposed by the script with a low or high degree of coercion. Natural roles refer to the exploitation of differences that exist between students before entering the script. Roles can be induced by restricting access to specific resources 1)documents 2)tools or by defining specific 3)responsibilities related to student authentication in the system. 
 
-### Updated 10.6 
+* Literature Circles (I found it! I did that when I was a student)
+* discussion facilitator 
+* commentator
+* illustrator
+* connector or reflector
+* summarizer
+* vocabulary enricher
+* travel tracer
+* investigator
 
+Citation:
+* https://en.wikipedia.org/wiki/Literature_circle
+* http://vhstigers.org/ourpages/auto/2006/6/20/1150825013488/Lit%20Circles%20in%20High%20School.pdf （an example）
+
+# 10.13 not yet organized
 Putting yourself in someone else's shoes: The impact of a location-based, collaborative role-playing game on behaviour.A LOT of discussions about roles (NEED TO REVISIT)
 * Citation: https://reader.elsevier.com/reader/sd/pii/S0360131515000640?token=233323CEEEDF57ECCC6CBBC859F58606F50216CBEABF412FC6DEBF0A6B4BAF295BFA1867EDED660AF7241899833F0522 
-
-* Page 3 of this (Something similar to this)
-http://www.accessola.com/osla/toolkit/Resources/Think%20Literacy%20-%20Group%20Roles.pdf
-* Literature Circles (I found it! I did that when I was a student)
-https://en.wikipedia.org/wiki/Literature_circle
 
 Hine,!N.,!R.!Rentoul!and!M.!Specht!(2004).!Collaboration!and!roles!in!remote!field!trips.!mLearn2003:!
 Learning!with!Mobile!Devices.!Research!and!Development,!London. 
