@@ -1,7 +1,7 @@
 # GROUP TASKS 
 This includes a list of group tasks that are used in cooperative learning, peer tutoring and computer-supported collaborative learning
 
-Edited 10.26.19 
+Edited 11.03.19 
 In the book of collaborative learning techniques, **35** techniques were divided into six broad categories 
 * Discussion
 * Reciprocal Peer Teaching
@@ -10,9 +10,27 @@ In the book of collaborative learning techniques, **35** techniques were divided
 * Writing 
 * Games
 The 35 techniques are evaluated according to 
-* Ease, effort, and enterprise needed in different learning environments such as LMS, Web Conference, Virtual World and Open Environment. 
-* adaptation in large lecture classrooms (into No Additional Requirements, Requres Moving Table and Chairs, Need help from others)
+* **Ease, effort, and enterprise needed in different learning environments such as LMS, Web Conference, Virtual World and Open Environment. 
+![Ease in different learning environments](https://github.com/linyuunc/group-tasks/blob/master/35%20according%20to%20different%20learning%20environments.png)
+* **adaptation in large lecture classrooms (into No Additional Requirements, Requres Moving Table and Chairs, Need help from others)
+![adaptation in large lecture classrooms](https://github.com/linyuunc/group-tasks/blob/master/adaptations%20to%20large%20class%20settings.png)
 
+* **Top Techniques for lecture breakout into the large classroom 
+  * CoLT1:Think-Pair-Share
+  * CoLT 3: Buzz Group 
+  * CoLT 2: Round Robin 
+* **Top techniques for study partners/groups 
+  * CoLT 7: Note-taking Pairs
+  * CoLT 8: Learning Cells 
+  * CoLT 13: Think-Aloud Pair Problem-solving
+* **Techniques for Test Preparation 
+   * CoLT 14: Send a Problem 
+   * CoLT 35: Team Games Tournaments
+   * CoLT 12: Test-takign teams 
+* **top techniques for class projects
+   * CoLT 11: Jigsaw
+   * CoLT 18: Group Investigation
+   * CoLT 29: Team Anthologies
 
 ## POSITIVE INTERDEPENDENCE 
 INCLUDES positive goal, reward-celebrate, resource, role, task (the next one depends on the previous one), identity, threat (when groups are placed in competition);fantasy interdependence. 
