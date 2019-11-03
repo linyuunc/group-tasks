@@ -15,15 +15,15 @@ The 35 techniques are evaluated according to
 * **adaptation in large lecture classrooms (into No Additional Requirements, Requres Moving Table and Chairs, Need help from others)
 ![adaptation in large lecture classrooms](https://github.com/linyuunc/group-tasks/blob/master/adaptations%20to%20large%20class%20settings.png)
 
-* **Top Techniques for lecture breakout into the large classroom 
+* **Top Techniques for lecture breakout into the large classroom** 
   * CoLT1:Think-Pair-Share
   * CoLT 3: Buzz Group 
   * CoLT 2: Round Robin 
-* **Top techniques for study partners/groups 
+* **Top techniques for study partners/groups** 
   * CoLT 7: Note-taking Pairs
   * CoLT 8: Learning Cells 
   * CoLT 13: Think-Aloud Pair Problem-solving
-* **Techniques for Test Preparation 
+* **Techniques for Test Preparation** 
    * CoLT 14: Send a Problem 
    * CoLT 35: Team Games Tournaments
    * CoLT 12: Test-takign teams 
