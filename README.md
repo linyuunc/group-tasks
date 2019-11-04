@@ -1,3 +1,21 @@
+# Questions to think about when designing a group task. 
+Updated by Linyu on 11/4/19 
+
+1.	What are the learning goals?/ What kind of learng task is it?  (domain-specificity or not; Circumplex)
+2. What are the required element group interdependece (role, goal, informaion, reward)? 
+3.	What is the evidence of the learning goals? (How do we assess it, product or process; who does eval; for what purposes; group or individual accountbility)
+4.	What are the characteristics of the learners?  (age, grade level, special needs, etc)
+5.	How big is the group? 
+6. What is the duration of the group (formal, informal, base)? 
+7.	What are the characteristics of group composition? (homogeneous or heterogeneous)
+8.	Does it require synchronous or asynchronous effort if it is online?
+9.	Is there a need to provide scripts for students?
+10. How much time (or time-line for longer projects) should this task take? 
+
+![critieria of effective group task ](https://github.com/linyuunc/group-tasks/blob/master/Screen%20Shot%202019-11-04%20at%201.16.05%20PM.png)
+Retrieved fro https://teachinghandbook.wayne.edu/pdf/designing-effective-group-activities_fink.pdf
+Can be roughly categorized into task, group and logistics. 
+
 # GROUP TASKS 
 This includes a list of group tasks that are used in cooperative learning, peer tutoring and computer-supported collaborative learning
 
